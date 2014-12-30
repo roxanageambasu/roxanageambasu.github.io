@@ -4,12 +4,16 @@ layout: page-notrack
 
 ## Scalable Web Transparency Experiments
 
-Our scalable web transparency project (http://xray.cs.columbia.edu/) aims to build
+Our Scalable Web Transparency project ([http://xray.cs.columbia.edu/](http://xray.cs.columbia.edu/)) aims to build
 the very first generic tools that can answer questions about targeting on the Web
-at scale.  Examples of questions we seek to answer include: What do advertisers
-target?, How do third-party Web trackers use the data they collect to target the
-users?, How spread is personalization and discrimination based on social
-data on the Web?, Do services share data with one another?
+at scale.  Examples of questions we seek to answer include: 
+
+- What do advertisers target?
+- How do third-party Web trackers use the data they collect to target the
+users?
+- How spread is personalization and discrimination based on social
+data on the Web?
+- Do services share data with one another?
 
 To answer these and other questions, we have built a system, called XRay, that reveals
 data targeting by measuring correlation between specific data inputs (be they emails,
@@ -61,8 +65,9 @@ re-targeting applied?
 
 Advertising is just one type of service where we already know targeting happens. In recent years,
 however, there has been some speculation recently on whether other services leverage user's data
-to target, personalize, or discriminate various other products.  For example, some have argued that
-lenders are using Facebook information to decide on loans (http://cnnmon.ie/1g5a4Mx). Our measurement
+to target, personalize, or discriminate various other products.  For example,
+[some have argued](http://money.cnn.com/2013/08/26/technology/social/facebook-credit-score/) that
+lenders are using Facebook information to decide on loans. Our measurement
 seeks to check this hypothesis at scale. We will develop a tool that crawls the Web from the vantage
 point of multiple different user profiles and relates consistent differences in the outputs with any
 differences in the profiles that appear to strongly correlate with them.  We will develop heuristics
@@ -80,7 +85,7 @@ various profiles and will store cookies, tracking information, ads, and/or page 
 We will then process on this data, performing the necessary correlations.  We may use the Elastic Map/Reduce
 service for this. We will store the result data sets in S3 and will make all data available publicly.  We will
 also host a service for a year that lets researchers or others interested in the data access it without
-downloading the full amount.  We are already running a demo service on AWS at http://data.lec.io/.
+downloading the full amount.  We are already running a demo service on AWS at [http://data.lec.io/](http://data.lec.io/).
 
 All experiments will be designed carefully to adhere to AWS's policies as well as good crawling practices.
 We will severely rate limit our crawlers on any given domain to prevent disruption of the crawled services. We
