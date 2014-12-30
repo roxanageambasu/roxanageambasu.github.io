@@ -1,0 +1,21 @@
+# Dependencies
+markdown:         redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+highlighter:      pygments
+baseurl:          /systems-bigdata-class
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'Computer Systems for Big Data'
+tagline:          'MS Course for the Institute for Data Sciences at Columbia'
+description:      ''
+url:              http://columbia.github.io/systems-bigdata-class/
+
+paginate:         1
+paginate_path:    /systems-bigdata-class/blog/page:num
+
+# Custom vars
+version:          0.1
