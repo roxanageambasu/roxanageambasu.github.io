@@ -1,5 +1,6 @@
 ---
 layout: page-notrack
+title: Experiments
 ---
 
 ## Scalable Web Transparency Experiments
