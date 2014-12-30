@@ -9,9 +9,9 @@ the very first generic tools that can answer questions about targeting on the We
 at scale.  Examples of questions we seek to answer include: What do advertisers
 target?, How do third-party Web trackers use the data they collect to target the
 users?, How spread is personalization and discrimination based on social
-data on the Web?, Do services share data with one another? Etc.
+data on the Web?, Do services share data with one another?
 
-Over the past couple of years, we have built a system, called XRay, that reveals
+To answer these and other questions, we have built a system, called XRay, that reveals
 data targeting by measuring correlation between specific data inputs (be they emails,
 searches, or visited products) with data outputs (such as ads or recommended products).
 Its correlation mechanism is service agnostic and easy to instantiate on various services.
@@ -32,22 +32,23 @@ studies that answer interesting questions about personal data targeting on the W
 large scale.  The remainder of this page details the experiments we plan to run, as well as our
 AWS-based methodology.
 
-### What Do Advertisers Target?
+### Question 1: What Do Advertisers Target?
 
 We plan to create a snapshot of Google's targeted ads on a large number of keywords: tens of thousands.
 Many of these keywords will be benign and will provide information on the volume of targeting on various topics
 and the types of campaigns advertisers run. Other more sensitive keywords will try to elicit information on the
 darker corner of online ads. As a teaser, our small-scale studies have already discovered ads for easy car loans
-that targeted users based on their emails expressing financial difficulty, as shown on our website
-(http://bit.ly/1HcyXGj). We also found numerous ads strongly correlated to keywords like cancer, depression,
-Alzheimer's, or pregnancy. Intuitively, such targeting could be dangerous for end-users, especially if it is
-extremely non-obvious from the ad's text, as were many of the associations we found with XRay. An unsuspecting
-user might click on an ad, thereby revealing sensitive information to an advertiser who could use it to the
-user's detriment. In our new measurement study, we plan to measure and categorize such targeting at large scale.
+that targeted users based on their emails expressing financial difficulty, as shown on our
+[website](http://matlecu.github.io/xray/3-use-cases/#table). We also found numerous ads strongly correlated to
+keywords like cancer, depression, Alzheimer's, or pregnancy. Intuitively, such targeting could be dangerous for
+end-users, especially if it is extremely non-obvious from the ad's text, as were many of the associations we
+found with XRay. An unsuspecting user might click on an ad, thereby revealing sensitive information to an
+advertiser who could use it to the user's detriment. In our new measurement study, we plan to measure and
+categorize such targeting at large scale.
 
-### How Do Third-party Web trackers Use Data to Target the Users?
+### Question 2: How Do Third-party Trackers Target the Users?
 
-Second, we plan to study for the first time ad targeting based on third-party trackers. We will simulate a
+We plan to study for the first time ad targeting based on third-party trackers. We will simulate a
 population of users browsing various websites (and within each website, individual articles), and will study
 the targeting of the ads that they get on arbitrary websites (through XRay-like correlation). We will use
 Mozilla's Lightbeam tool to detect trackers on arbitrary websites, AdBlock to detect ads on arbitrary websites,
@@ -56,7 +57,7 @@ study include: Are there major third parties that are the origin of more targeti
 How long does it take until a particular tracker starts targeting on a particular piece of data? How frequent is
 re-targeting applied?
 
-### How Spread Is Personalization on Social Data on the Web?
+### Question 3: How Spread Is Personalization on the Web?
 
 Advertising is just one type of service where we already know targeting happens. In recent years,
 however, there has been some speculation recently on whether other services leverage user's data
@@ -65,13 +66,13 @@ lenders are using Facebook information to decide on loans (http://cnnmon.ie/1g5a
 seeks to check this hypothesis at scale. We will develop a tool that crawls the Web from the vantage
 point of multiple different user profiles and relates consistent differences in the outputs with any
 differences in the profiles that appear to strongly correlate with them.  We will develop heuristics
-to narrow the comparison to ``interesting'' elements within a page (e.g., portions including the ``$''
-sign, which will likely be prices). We will run the Web crawling and data processing from AWS (see
-methodology in Secton 5) and will release all data publicly.  We and other researchers will be able
-to visualize the consistent differences and attribute them to specific profile aspects. They will
-judge on a case-by-case basis whether they represent discrimination or just innocuous personalization.
+to narrow the comparison to "interesting" elements within a page (e.g., portions including the "$"
+sign, which will likely be prices). We will release all data and code publicly.  We and other
+researchers will be able to visualize the consistent differences and attribute them to specific profile
+aspects. They will judge on a case-by-case basis whether they represent discrimination or just
+innocuous personalization.
 
-### Experimental Methodology
+### AWS-Based Methodology
 
 We plan to run these and other experiments, as well as the development and testing that prepares them, on 10
 AWS large instances over the next two years.  These instances will crawl the Web from the vantage points of
