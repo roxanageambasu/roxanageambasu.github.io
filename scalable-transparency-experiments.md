@@ -26,10 +26,6 @@ populating a number of extra user profiles with subsets of the inputs and compar
 outputs in these different accounts to grasp correlation. Of course, the details are more
 complex and they require careful intertwining of theory and systems, details of which can
 be found in our [USENIX Security 2014 paper](http://matlecu.github.io/xray/public/usenix14lecuyer.pdf).
-Our main evaluation result is that XRay can achieve high precision and recall
-of its data use predictions, as well as asymptotic causation assurances, with only a modest
-number of shadow profiles (logarithmic in the number of inputs under certain assumptions).
-This suggests great scaling prospects.
 
 Going forward, we plan to leverage XRay and related concepts to run a series of measurement
 studies that answer interesting questions about personal data targeting on the Web at
