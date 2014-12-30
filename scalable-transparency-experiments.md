@@ -1,3 +1,7 @@
+---
+layout: page-notrack
+---
+
 ## Scalable Web Transparency Experiments
 
 Our scalable web transparency project (http://xray.cs.columbia.edu/) aims to build
