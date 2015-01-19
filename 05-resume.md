@@ -1,5 +1,5 @@
 ---
 layout: link
-linkurl: {{ site.base_url }}/public/geambasu_cv.pdf
+linkurl: http://roxanageambasu.github.io/public/geambasu_cv.pdf
 title: Resume
 ---
