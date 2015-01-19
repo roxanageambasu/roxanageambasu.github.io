@@ -31,7 +31,7 @@ data-driven Web service integrations. This project is in collaboration with Prof
 [Jason Nieh](http://www.cs.columbia.edu/~nieh/) from Columbia.
 
 * **vTube: An Interactive Repository of Executable Content for Long-term Content Preservation.**
-Humangous amounts of data, software, and research artifacts are being produced today, including photos, documents, games, applications, and
+Humongous amounts of data, software, and research artifacts are being produced today, including photos, documents, games, applications, and
 scientific models.  While many techniques exist to ensure the availability of these digital contents in the short to medium term, little is known about long-term preservation. What will happen with these contents 50 years from now, when most of the libraries, codecs, OSes, and hardware platforms that they were created for will have evolved in non-backward-compatible ways? In collaboration with Prof. <a href="http://www.cs.cmu.edu/~satya">Mahadev Satyanarayanan</a> from CMU and Dr. <a href="http://www.research.att.com/people/Joshi_Kaustubh/">Kaustubh Joshi</a> from ATT, we are building infrastructure necessary for long-term preservation and convenient access of such digital artifacts despite
 infrastructural change. Read about our first step toward this goal in our <a href="{{ site.baseurl }}/publications/socc2013vtube.pdf">SoCC 2013 paper</a>, which describes <i>vTube</i>, a YouTube-like system that stores, archives, and streams <i>executable content</i>, i.e., data or software plus all of their dependencies.
 
