@@ -23,9 +23,9 @@
             <a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
             </li>
           {% endif %}
-          {% if node.layout == "external" %}
+          {% if node.layout == "link" %}
             <li class="sidebar-nav-item active">
-            <a href="node.urlurl">{{ node.title }}</a>
+            <a href="{{ node.linkurl }}">{{ node.title }}</a>
             </li>
           {% endif %}
         {% endif %}
