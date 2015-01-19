@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 ---
 
-* Spring 2015: <a href=" https://columbia.github.io/systems-big-data/">Computer Systems for Big Data</a> (MS course for Columbia's Data Science Institute)</li>
+* Spring 2015: <a href=" https://columbia.github.io/systems-bigdata-class/">Computer Systems for Big Data</a> (MS course for Columbia's Data Science Institute)</li>
 * Spring 2015: <a href=" https://roxanageambasu.github.io/ds2-class/">Advanced Distributed Systems</a> (research seminar)</li>
 * Fall 2014: <a href=" https://roxanageambasu.github.io/ds-class/">Distributed Systems Fundamentals</a></li>
 * Spring 2014: <a href="http://www.cs.columbia.edu/teaching/CloudMobileS14">Cloud and Mobile Security Seminar</a></li>
