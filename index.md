@@ -52,8 +52,8 @@ explicitly contacted you, your advisor, or your school.
 
 ### MS Advising
 
-Please see [the MS advising section]({{ site.base_url }}/teaching#advising) for office hours,
-appointments, and other information.
+Please see [the MS advising section]({{ site.base_url }}/teaching#msadvising) for office hours
+and appointments.
 
 
 
