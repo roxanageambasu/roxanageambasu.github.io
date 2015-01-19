@@ -22,6 +22,10 @@
             <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
             <a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
             </li>
+          {% else if node.layout == "external" %}
+            <li class="sidebar-nav-item active">
+            <a href="{{ node.url }}">{{ node.title }}</a>
+            </li>
           {% endif %}
         {% endif %}
       {% endfor %}
