@@ -8,7 +8,9 @@ I am an assistant professor of Computer Science Department at Columbia Universit
 
 ### Short Bio
 
-I joined Columbia in Fall 2011 after finishing her Ph.D. at the University of Washington.  For my work in cloud and mobile data privacy, I received a Microsoft Research Faculty Fellowship, a ``Brillint 10'' Popular Science nomination, an NSF CAREER award (all in 2014); an Honorable Mention for the inaugural Dennis M. Ritchie Doctoral Dissertation Award in 2013, a William Chan Dissertation Award in 2012, two best paper awards at top systems conferences (2009 and 2011), and the first Google Ph.D. Fellowship in Cloud Computing (2009).  I did my undergraduate studies in my home country, Romania, at the Polytechnic University of Bucharest.
+I joined Columbia in Fall 2011 after finishing her Ph.D. at the University of
+Washington.  For my work in cloud and mobile data privacy, I received a
+Microsoft Research Faculty Fellowship, a ``Brilliant 10'' Popular Science nomination, an NSF CAREER award (all in 2014); an Honorable Mention for the inaugural Dennis M. Ritchie Doctoral Dissertation Award in 2013, a William Chan Dissertation Award in 2012, two best paper awards at top systems conferences (2009 and 2011), and the first Google Ph.D. Fellowship in Cloud Computing (2009).  I did my undergraduate studies in my home country, Romania, at the Polytechnic University of Bucharest.
 
 I am now part of the [Columbia Software Systems Lab](http://systems.cs.columbia.edu/), an energetic group of professors and students working on highly relevant challenges in today's cutting-edge technologies, such as mobile devices, cloud computing, and distributed systems.
 
@@ -20,7 +22,8 @@ I am extremely fortunate to supervise a set of wonderful Ph.D. students:
 * [Mathias Lecuyer](http://www.cs.columbia.edu/~mathias/) (co-advising with [Augustin Chaintreau](http://www.cs.columbia.edu/~augustin/))
 * [Riley Spahn](http://www.cs.columbia.edu/~riley/) (co-advising with [Gail Kaiser](http://www.cs.columbia.edu/~kaiser/)
 * Giannis Spiliopoulos
-* [Nicolas Viennot](https://github.com/nviennot)" (principal advisor is [Jason Nieh](http://www.cs.columbia.edu/~nieh/)
+* [Nicolas Viennot](https://github.com/nviennot)" (principal advisor is [Jason
+  Nieh](http://www.cs.columbia.edu/~nieh/))
 
 Other great student collaborators (current or past):
 <ul>
