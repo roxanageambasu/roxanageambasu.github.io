@@ -9,9 +9,8 @@ permalink:        pretty
 
 # Setup
 title:            'Roxana Geambasu'
-tagline:          'Assistant Professor of Computer Science at Columbia University'
+tagline:          'Assistant Professor of Computer Science at Columbia Universityi <br/>(first-name@cs.columbia.edu)'
 description:      ''
-contact:          'first-name@cs.columbia.edu'
 url:              http://roxanageambasu.github.io/
 
 paginate:         1
