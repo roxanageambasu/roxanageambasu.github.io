@@ -11,7 +11,7 @@ A fully working version of my home page is here: [http://www.cs.columbia.edu/~ro
 
 ---
 
-I am an assistant professor of Computer Science Department at Columbia University. I am interested in computer systems in a broad sense, including distributed systems, security and privacy, operating systems, and databases. My current research aims to understand what privacy means in today's data-driven world, and how we can ensure it.  I believe that a re-definition is needed for privacy to replace the old view centered around data protection and access prevention, which is no longer achievable.  I do not yet know what the new definition for privacy should be, but I believe that it should include at least three concepts: **accountability**, **fairness**, and **responsible data management**.  Read about my vision for privacy in today's data-driven world in a (somewhat outdated) [research statement]({{ site.base_url }}/public/geambasu_rs_2013.pdf).
+I am an assistant professor of Computer Science Department at Columbia University. I am interested in computer systems in a broad sense, including distributed systems, security and privacy, operating systems, and databases. My current research aims to understand what privacy means in today's data-driven world, and build systems that help increase it.  I believe that a new definition is needed for privacy in a world where data protection and access prevention are no longer attainable.  I do not yet know what the new definition for privacy should be, but I believe that it should include at least three concepts: **accountability**, **fairness**, and **responsible data management**.  Read about research to increase privacy in today's data-driven world [here]({{ site.base_url }}/01-research/).
 
 ### Short Bio
 
