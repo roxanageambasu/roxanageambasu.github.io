@@ -20,9 +20,10 @@ I am extremely fortunate to supervise a set of wonderful Ph.D. students:
 
 * [Vaggelis Atlidakis](http://www.cs.columbia.edu/~vatlidak/)
 * [Mathias Lecuyer](http://www.cs.columbia.edu/~mathias/) (co-advising with [Augustin Chaintreau](http://www.cs.columbia.edu/~augustin/))
-* [Riley Spahn](http://www.cs.columbia.edu/~riley/) (co-advising with [Gail Kaiser](http://www.cs.columbia.edu/~kaiser/)
+* [Riley Spahn](http://www.cs.columbia.edu/~riley/) (co-advising with [Gail
+  Kaiser](http://www.cs.columbia.edu/~kaiser/))
 * Giannis Spiliopoulos
-* [Nicolas Viennot](https://github.com/nviennot)" (principal advisor is [Jason
+* [Nicolas Viennot](https://github.com/nviennot) (principal advisor is [Jason
   Nieh](http://www.cs.columbia.edu/~nieh/))
 
 Other great student collaborators (current or past):
