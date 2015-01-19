@@ -11,7 +11,7 @@ permalink:        pretty
 title:            'Roxana Geambasu'
 tagline:          'Assistant Professor of Computer Science at Columbia University'
 description:      ''
-contact:          'roxana <at> cs <dot> columbia <dot> edu'
+contact:          'first-name AT cs DOT columbia DOT edu'
 url:              http://roxanageambasu.github.io/
 
 paginate:         1
