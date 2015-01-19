@@ -46,7 +46,7 @@ Conference on Computer Systems (EuroSys)</a>, Salzburg, Austria, April 2011.
 * Roxana Geambasu, Tadayoshi Kohno, Arvind Krishnamurthy, Amit Levy,
 Henry M. Levy, Paul Gardner, and Vinnie Moscaritolo.
 "New Directions for Self-destructing Data."
-Technical Report, University of Washington, UW-CSE-11-08-01, 2011.</br>
+Technical Report, University of Washington, UW-CSE-11-08-01, 2011.
 [<a href="{{ site.baseurl }}/publications/vanish-extensions-techreport11.pdf">PDF</a>].
 
 * Roxana Geambasu, Amit Levy, Tadayoshi Kohno, Arvind Krishnamurthy, Henry M. Levy. 
