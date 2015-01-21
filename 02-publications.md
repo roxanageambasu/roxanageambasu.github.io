@@ -3,6 +3,13 @@ layout: page
 title: Publications
 ---
 
+* Nicolas Viennot , Mathias Lecuyer, Jonathan Bell, Roxana Geambasu, and Jason
+  Nieh. ''Synapse: New Data Integration Abstractions for Agile Web
+  Application Development.'' In Proceedings of the European
+  Conference on Computer Systems (EuroSys), Bordeaux, France, April 2015.
+  To appear.  Website: <a
+  href="https://github.com/nviennot/synapse">https://github.com/nviennot/synapse</a>.
+
 * Riley Spahn, Jonathan Bell, Michael Lee, Sravan Bhamidipati, Roxana Geambasu, Gail Kaiser. ''Pebbles: Fine-Grained Data Management Abstractions for Modern Operating Systems.''  In Proceedings of the USENIX Operating Systems Design and Implementation (OSDI), Broomfield, CO, October 2014. [<a href="{{ site.baseurl }}/publications/osdi2014pebbles.pdf">PDF</a>].
 
 * Mathias Lecuyer, Guillaume Ducoffe, Francis Lan, Andrei Papancea, Theofilos Petsios, Riley Spahn, Augustin Chaintreau, and Roxana Geambasu.
