@@ -1,6 +1,6 @@
 ---
 layout: link
-linkurl: http://roxanageambasu.github.io/CAREER/
+linkurl: //roxanageambasu.github.io/CAREER/
 title: CAREER
 ---
 
