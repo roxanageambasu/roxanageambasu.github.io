@@ -49,7 +49,7 @@ explicitly contacted you, your advisor, or your school.
 
 ### MS Advising
 
-Please see [the MS advising section]({{ site.base_url }}/teaching#msadvising) for office hours
+Please see [the MS advising section]({{ site.base_url }}/04-teaching#msadvising) for office hours
 and appointments.
 
 
