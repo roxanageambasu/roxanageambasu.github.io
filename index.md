@@ -13,7 +13,7 @@ I am extremely fortunate to supervise a set of wonderful Ph.D. students:
 * [Vaggelis Atlidakis](http://www.cs.columbia.edu/~vatlidak/)
 * [Mathias Lecuyer](http://www.cs.columbia.edu/~mathias/) (co-advising with [Augustin Chaintreau](http://www.cs.columbia.edu/~augustin/))
 * [Riley Spahn](http://www.cs.columbia.edu/~riley/) (co-advising with [Gail
-  Kaiser](http://www.cs.columbia.edu/~kaiser/)) -- Riley just won the [Google Fellowship in Privacy](http://googleresearch.blogspot.com/2015/02/announcing-2015-north-american-google.html)!
+  Kaiser](http://www.cs.columbia.edu/~kaiser/)) -- Riley just won the [Google Fellowship in Privacy](http://googleresearch.blogspot.com/2015/02/announcing-2015-north-american-google.html). Congrats, Riley!
 * Giannis Spiliopoulos
 * [Nicolas Viennot](https://github.com/nviennot) (principal advisor is [Jason
   Nieh](http://www.cs.columbia.edu/~nieh/))
