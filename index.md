@@ -4,7 +4,7 @@ title: Overview
 ---
 
 
-I am an assistant professor of Computer Science Department at Columbia University. I am interested in computer systems in a broad sense, including distributed systems, security and privacy, operating systems, and databases. My current research aims to understand what privacy means in today's data-driven world, and build systems that help increase it.  I believe that a new definition is needed for privacy in a world where data protection and access prevention are no longer attainable.  I do not yet know what the new definition for privacy should be, but I believe that it should include at least three concepts: **accountability**, **fairness**, and **responsible data management**.  Read about research to increase privacy in today's data-driven world [here]({{ site.baseurl }}/01-research/).
+I am an assistant professor of Computer Science at Columbia University. I am interested in computer systems in a broad sense, including distributed systems, security and privacy, operating systems, and databases. My current research aims to understand what privacy means in today's data-driven world, and build systems that help increase it.  I believe that a new definition is needed for privacy in a world where data protection and access prevention are no longer attainable.  I do not yet know what the new definition for privacy should be, but I believe that it should include at least three concepts: **accountability**, **fairness**, and **responsible data management**.  Read about research to increase privacy in today's data-driven world [here]({{ site.baseurl }}/01-research/).
 
 ### My Students
 
