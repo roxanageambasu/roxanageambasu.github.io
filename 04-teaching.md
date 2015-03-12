@@ -3,8 +3,8 @@ layout: page
 title: Teaching
 ---
 
-* Spring 2015: <a href=" https://columbia.github.io/systems-bigdata-class/">Computer Systems for Big Data</a> (MS course for Columbia's Data Science Institute)</li>
 * Spring 2015: <a href=" https://roxanageambasu.github.io/ds2-class/">Advanced Distributed Systems</a> (research seminar)</li>
+* Spring 2015: <a href=" https://columbia.github.io/systems-bigdata-class/">Computer Systems for Big Data</a> (MS course for Columbia's Data Science Institute)</li>
 * Fall 2014: <a href=" https://roxanageambasu.github.io/ds-class/">Distributed Systems Fundamentals</a></li>
 * Spring 2014: <a href="http://www.cs.columbia.edu/teaching/CloudMobileS14">Cloud and Mobile Security Seminar</a></li>
 * Fall 2013: <a href="https://www.cs.columbia.edu/~du/ds/">Distributed Systems Fundamentals (W4995)</a></li>
@@ -16,7 +16,7 @@ title: Teaching
 ## M.S. System-Track Advising
 
 I serve as an M.S. advisor for the systems track. 
-I hold office hours for systems-track MS advising on **Tuesdays 3-4pm**.
+I hold office hours for systems-track MS advising on **Tuesdays 3-3:30pm**.
 Please come to the office hour instead of writing emails or requesting appointments.
 On-demand appointments will only be granted under special circumstances.
 </p>
