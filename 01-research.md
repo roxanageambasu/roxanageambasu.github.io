@@ -28,8 +28,8 @@ needs to be controlled so that information can be shared efficiently, with stron
 guarantees, and securely across multiple applications. To this end, we are building <i>Synapse</i>,
 an easy-to-use, strong-semantics, secure Web programming framework for large-scale,
 data-driven Web service integrations. Our initial efforts into the programming
-aspects for the data exchange are described in our [EuroSys 2015 paper]({{
-  site.baseurl }}/publications/eurosys2015synapse.pdf).
+aspects for the data exchange are described in our
+[EuroSys 2015 paper]({{ site.baseurl }}/publications/eurosys2015synapse.pdf).
 This project is in collaboration with Prof.
 [Jason Nieh](http://www.cs.columbia.edu/~nieh/) from Columbia.
 
