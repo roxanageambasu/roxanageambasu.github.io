@@ -7,7 +7,8 @@ title: Publications
   Nieh. ''Synapse: New Data Integration Abstractions for Agile Web
   Application Development.'' In Proceedings of the European
   Conference on Computer Systems (EuroSys), Bordeaux, France, April 2015.
-  To appear.  Website: <a
+  [<a href="{{ site.baseurl }}/publications/eurosys2015synapse.pdf">PDF</a>].
+  Website: <a
   href="https://github.com/nviennot/synapse">https://github.com/nviennot/synapse</a>.
 
 * Riley Spahn, Jonathan Bell, Michael Lee, Sravan Bhamidipati, Roxana Geambasu, Gail Kaiser. ''Pebbles: Fine-Grained Data Management Abstractions for Modern Operating Systems.''  In Proceedings of the USENIX Operating Systems Design and Implementation (OSDI), Broomfield, CO, October 2014. [<a href="{{ site.baseurl }}/publications/osdi2014pebbles.pdf">PDF</a>].
@@ -16,7 +17,7 @@ title: Publications
 "XRay: Increasing the Web's Transparency with Differential Correlation."
 In Proceedings of the <a href="http://usenix.org/conference/usenixsecurity14">USENIX Security Symposium</a>,
 San Diego, CA, August 2014. [<a href="{{ site.baseurl }}/publications/usenixsec2014xray.pdf">PDF</a>]. <a href="http://bits.blogs.nytimes.com/2014/08/18/xray-a-new-tool-for-tracking-the-use-of-personal-data-on-the-web/"><font color="red">NYT Bits article</font></a>.
-Project <a href="http://xray.cs.columbia.edu"> website</a>. 
+Website <a href="http://matlecu.github.io/xray/">http://matlecu.github.io/xray/</a>.
 
 * Yoshihisa Abe, Roxana Geambasu, Kaustubh Joshi, H. Andres Lagar-Cavilla, and Mahadev Satyanarayanan.
 "vTube: Efficient Streaming of Virtual Appliances Over Last-Mile Networks."
