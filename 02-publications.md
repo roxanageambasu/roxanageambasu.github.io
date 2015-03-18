@@ -63,8 +63,7 @@ In Proceedings of the <a href="http://www.usenix.org/event/osdi10/">9th USENIX
 Symposium on Operating Systems Design and Implementation (OSDI)</a>, 
 Vancouver, Canada, October 2010. <br>
 [<a href="{{ site.baseurl }}/publications/osdi2010comet.pdf">PDF</a>];
-[<a href="{{ site.baseurl
-}}/publications/osdi2010comet_presentation.ppt">PPT</a>].
+[<a href="{{ site.baseurl }}/publications/osdi2010comet_presentation.ppt">PPT</a>].
 
 * Roxana Geambasu, Tadayoshi Kohno, Amit Levy, Henry M. Levy.
 "Vanish: Increasing Data Privacy with Self-Destructing Data."
@@ -78,9 +77,8 @@ Security Symposium</a>, Montreal, Canada, August 2009. <font color="red">Outstan
 In Proceedings of the <a href="http://www.usenix.org/event/hotcloud09/cfp/">First
 USENIX Workshop on Hot Topics in Cloud Computing (HotCloud)</a>, San Diego, USA,
 June 2009.
-[<a href="./projects/cloudviews/hotcloud09-geambasu.pdf">PDF</a>];
-[<a href="{{ site.baseurl
-}}/publications/hotcloud09-geambasu-presentation.ppt">PPT</a>].
+[<a href="{{ site.baseurl }}/publications/hotcloud09-geambasu.pdf">PDF</a>];
+[<a href="{{ site.baseurl }}/publications/hotcloud09-geambasu-presentation.ppt">PPT</a>].
 
 * Roxana Geambasu, Andrew Birrell, and John MacCormick.
 "Experiences with Formal Specification of Fault-Tolerant Storage Systems."
