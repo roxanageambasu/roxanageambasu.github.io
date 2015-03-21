@@ -27,7 +27,7 @@ Other great student collaborators (current or past):
 
 ### Short Bio
 
-I joined Columbia in Fall 2011 after finishing her Ph.D. at the University of
+I joined Columbia in Fall 2011 after finishing my Ph.D. at the University of
 Washington.  For my work in cloud and mobile data privacy, I received a
 Microsoft Research Faculty Fellowship, a ``Brilliant 10'' Popular Science nomination, an NSF CAREER award (all in 2014); an Honorable Mention for the inaugural Dennis M. Ritchie Doctoral Dissertation Award in 2013, a William Chan Dissertation Award in 2012, two best paper awards at top systems conferences (2009 and 2011), and the first Google Ph.D. Fellowship in Cloud Computing (2009).  I did my undergraduate studies in my home country, Romania, at the Polytechnic University of Bucharest.
 
