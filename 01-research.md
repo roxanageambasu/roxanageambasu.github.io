@@ -11,7 +11,7 @@ computing and powerful mobile devices.  Brief descriptions of my research projec
 
 ### Current Projects
 
-* **XRay: Increasing the Web's Transparency.**
+* **Transparency and Oversight for the Data-Driven Web.**
   Today's Web services accumulate enormous sensitive information -- such as emails, search logs, or locations -- and use them to target advertisements, prices, or products at users. Presently, users have little insight into how their data is used for such purposes. To enhance transparency, we are building **XRay**, a system that predicts what data -- such as emails or searches -- is used to target which ads in Gmail, which prices in Amazon, etc. The mechanism is Web-service independent, though the plugin is not. The insight is to compare ads/prices witnessed by different accounts with similar, but not identical, subsets of the data.  A [paper]({{ site.baseurl }}/publications/usenixsec2014xray.pdf) describing XRay appeared at USENIX Security 2014.  The project's website is [here](http://xray.cs.columbia.edu). This work is in collaboration with Prof. [Augustin Chaintreau](http://www.cs.columbia.edu/~augustin/) from Columbia.
 
 * **Modern protection abstractions for modern OSes.**
@@ -20,18 +20,15 @@ that are more suitable for modern operating systems, including a new *logical da
 to user-level objects, such as emails, documents, or pictures. Thus far, we've investigated two end-of-spectrum approaches for
 implementing logical data objects: (1) expose a new APIs to app programmers (*CleanOS* system, described in an [OSDI 2012 paper]({{ site.baseurl }}/publications/osdi2012cleanos.pdf)) and (2) recognize objects automatically by leveraging structural information from modern storage abstractions (*Pebbles* system, described in an [OSDI 2014 paper]({{ site.baseurl }}/publications/osdi2014pebbles.pdf)).
 
-* **Synapse: Data Exchange Done Right.**
+* **Data Exchange Done Right.**
 Data has become the principal asset of the Internet era, which everyone strives
 to acquire and process. A new economy is emerging, in which striking amounts of continuously
 changing user data is being sold and shared for others to process upon. That economy
 needs to be controlled so that information can be shared efficiently, with strong semantic
-guarantees, and securely across multiple applications. To this end, we are building <i>Synapse</i>,
-an easy-to-use, strong-semantics, secure Web programming framework for large-scale,
-data-driven Web service integrations. Our initial efforts into the programming
-aspects for the data exchange are described in our
-[EuroSys 2015 paper]({{ site.baseurl }}/publications/eurosys2015synapse.pdf).
-This project is in collaboration with Prof.
-[Jason Nieh](http://www.cs.columbia.edu/~nieh/) from Columbia.
+guarantees, and securely across multiple applications. To this end, we are constructing
+an easy-to-use, strong-semantics, secure, and transparent data sharing infrastructure.
+In designing our infrastructure, we take cues from our recent paper on data-driven
+web service integration that appeared in [EuroSys 2015]({{ site.baseurl }}/publications/eurosys2015synapse.pdf).
 
 * **vTube: An Interactive Repository of Executable Content for Long-term Content Preservation.**
 Humongous amounts of data, software, and research artifacts are being produced today, including photos, documents, games, applications, and
