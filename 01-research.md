@@ -59,15 +59,3 @@ description of our Vanish work and links to our prototype. Our initial Vanish
 design was described in our 
 <a href="{{ site.baseurl }}/publications/usenixsec09-geambasu.pdf">USENIX Security 2009
 	paper</a>, which received an <font color="red">"Outstanding Student Paper" award</font>.
-
-* **Comet: Active Distributed Storage Systems.**
-Today's cloud storage services, such as Amazon S3 or peer-to-peer DHTs, 
-are highly inflexible and impose a variety of constraints on their clients: 
-specific replication and consistency schemes, fixed data timeouts,
-limited logging, etc.  We witnessed such inflexibility first-hand as part of our
-Vanish work, where we used a DHT to store encryption keys
-temporarily. To address this issue, we built Comet, an extensible storage
-service that allows clients to inject snippets of code that control their
-data's behavior inside the storage service. Details about Comet can be found
-in our <a href="{{ site.baseurl }}/publications/osdi2010comet.pdf">OSDI 2010 paper</a>.
-
