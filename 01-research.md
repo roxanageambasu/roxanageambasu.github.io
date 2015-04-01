@@ -27,7 +27,7 @@ changing user data is being sold and shared for others to process upon. That eco
 needs to be controlled so that information can be shared efficiently, with strong semantic
 guarantees, and securely across multiple applications. To this end, we are constructing
 an easy-to-use, strong-semantics, secure, and transparent data sharing infrastructure.
-In designing our infrastructure, we take cues from our recent paper on data-driven
+In designing our infrastructure, we take cues from <i>Synapse</i>, a system for data-driven
 web service integration that appeared in [EuroSys 2015]({{ site.baseurl }}/publications/eurosys2015synapse.pdf).
 
 * **vTube: An Interactive Repository of Executable Content for Long-term Content Preservation.**
