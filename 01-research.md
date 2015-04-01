@@ -28,7 +28,8 @@ needs to be controlled so that information can be shared efficiently, with stron
 guarantees, and securely across multiple applications. To this end, we are constructing
 an easy-to-use, strong-semantics, secure, and transparent data sharing infrastructure.
 In designing our infrastructure, we take cues from <i>Synapse</i>, a system for data-driven
-web service integration that appeared in [EuroSys 2015]({{ site.baseurl }}/publications/eurosys2015synapse.pdf).
+web service integration that appeared in [EuroSys 2015]({{ site.baseurl }}/publications/eurosys2015synapse.pdf),
+a project in collaboration with Prof. [Jason Nieh](http://www.cs.columbia.edu/~nieh/).
 
 * **vTube: An Interactive Repository of Executable Content for Long-term Content Preservation.**
 Humongous amounts of data, software, and research artifacts are being produced today, including photos, documents, games, applications, and
