@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-* Mathias Lecuyer, Riley B. Spahn, Gianis Spiliopoulos, Augustin Chaintreau, Roxana Geambasu, and Daniel Hsu.
+* Mathias Lecuyer, Riley B. Spahn, Giannis Spiliopoulos, Augustin Chaintreau, Roxana Geambasu, and Daniel Hsu.
   ''Sunlight: Fine-grained Targeting Detection at Scale with Statistical Confidence.''
   In Proceedings of the ACM Conference on Computer and Communications Security (CCS), Denver, Colorado,
   October 2015.  To appear.
