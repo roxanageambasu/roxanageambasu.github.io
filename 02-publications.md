@@ -100,7 +100,7 @@ and Henry M. Levy. "The Organization and Sharing of Web-service Objects with
 Menagerie." 
 In Proceedings of the <a href="http://www2008.org/index.html">17th International
 World Wide Web Conference (WWW)</a>, Beijing, China, April 2008.
-<br>Paper: [<a href="./projects/menagerie/www08-geambasu.pdf">PDF</a>];
+<br>Paper: [<a href="{{ site.baseurl }}/publications/www08-geambasu.pdf">PDF</a>];
 Presentation: [<a href="{{ site.baseurl }}/publications/www08-geambasu-pres.ppt">PPT</a>,
 <a href="{{ site.baseurl }}/publications/www08-geambasu-pres.pdf">PDF</a>].
 
