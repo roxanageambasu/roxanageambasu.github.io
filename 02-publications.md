@@ -2,6 +2,11 @@
 layout: page
 title: Publications
 ---
+* Vaggelis Atlidakis, Jeremy Andrus, Roxana Geambasu, Dimitris Mitropoulos, and Jason Nieh.
+  ''POSIX Abstractions in Modern Operating Systems: The Old, the New, and the Missing.''
+  In Proceedings of the European Conference on Computer Systems (EuroSys), London, UK, April 2016.
+  To appear.
+
 * Mathias Lecuyer, Riley B. Spahn, Giannis Spiliopoulos, Augustin Chaintreau, Roxana Geambasu, and Daniel Hsu.
   ''Sunlight: Fine-grained Targeting Detection at Scale with Statistical Confidence.''
   In Proceedings of the ACM Conference on Computer and Communications Security (CCS), Denver, Colorado,
