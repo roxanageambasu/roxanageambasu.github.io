@@ -3,16 +3,11 @@ layout: page
 title: Research
 ---
 
-### Research Vision
+### Research
 
 Generally speaking, my research spans many areas of computer systems, including distributed systems,
 security and privacy, operating systems, and applications of cryptography and machine learning to systems problems.
-Across these areas, my work anticipates and addresses the unseen costs posed by emerging technologies. 
-For example, I have studied the move to cloud computing; the pervasive adoption of small-form, mobile devices;
-and the increased collection and mining of personal data by myriad cloud services and applications.
-In all of these domains, I focus on exposing problems and inventing solutions to threats to our data security and privacy, and I build scalable distributed infrastructures that secure both.
-
-More specifically, much of my ongoing research aims to develop a *new model for privacy* for today's web data-driven world.
+Much of my ongoing research aims to develop a *new model for privacy* for today's web data-driven world.
 Today's web, a complex ecosystem, is largely driven by the collection and monetization of personal data.
 Many web services, mobile applications, and third party trackers collect and use our personal data for varied purposes, e.g., to target
 advertisements, personalize recommendations, and fine-tune prices.
@@ -40,8 +35,7 @@ and retention.
   information for all sorts of purposes but the users do not know how their
   data is being used.
   To enhance transparency, we are building a new set
-  of scalable infrastructures ({\em XRay} and {\em Sunlight}) to detect data
-  uses for targeting and personalization.
+  of scalable infrastructures to detect data uses for targeting and personalization.
   The insight is to compare ads, prices, and other personalized content
   witnessed by different accounts with   similar, but not identical, subsets
   of the data.
