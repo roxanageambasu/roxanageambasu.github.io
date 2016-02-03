@@ -92,7 +92,7 @@ These projects are in collaboration with Gail Kaiser (Columbia) and Jason Nieh (
 
 ### Notable Past Projects:
 
-* **File auditing for mobile devices:
+* **File auditing for mobile devices:**
   With today's limited anti-theft tools, users can neither assuredly restrict nor
   remotely monitor a thief's data accesses on a stolen or lost mobile device. I
   built <i>Keypad</i>, a new file system that enhances data security on
@@ -100,7 +100,7 @@ These projects are in collaboration with Gail Kaiser (Columbia) and Jason Nieh (
   Read our [EuroSys'11 paper]({{ site.baseurl }}/publications/eurosys2011keypad.pdf")
   (awarded Best Student Paper).
 
-* **Cloud storage customization with active storage.*
+* **Cloud storage customization with active storage.**
   Today's cloud storage services, such as Amazon S3, are highly inflexible and
   impose a variety of constraints on their clients: specific data consistency
   properties, fixed replication factors, limited logging, etc. I built
