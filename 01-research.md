@@ -10,8 +10,7 @@ security and privacy, operating systems, and applications of cryptography and ma
 Much of my ongoing research aims to develop a *new model for privacy* for today's web data-driven world.
 Today's web, a complex ecosystem, is largely driven by the collection and monetization of personal data.
 Many web services, mobile applications, and third party trackers collect and use our personal data for varied purposes, e.g., to target
-advertisements, personalize recommendations, and fine-tune prices.
-Some of these uses offer benefits to us (e.g., recommendations on Netflix and Pandora), but others may impose serious personal costs.
+ads, personalize recommendations, and fine-tune prices.
 At present, we have no window into how our data is being used, and there is little or no accountability required of the services, raising the risk for deceptive and unfair practices.
 
 My team and I seek a new model for how we address such personal privacy issues.
