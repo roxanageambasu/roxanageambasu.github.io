@@ -18,12 +18,12 @@ We envision a web environment where users are more aware of the privacy conseque
 In our model, services and applications are held accountable for their actions and are explicitly constructed to protect user privacy.
 To forge this new web ecosystem, we design, build, and evaluate:
 
-* <i>New transparency tools</i> that increase society's oversight regarding how applications use personal data in order to detect and deter
+* **New transparency tools** that increase society's oversight regarding how applications use personal data in order to detect and deter
 unfair and deceptive practices;
 
-* <i>New development tools</i> that assist programmers in building applications that are privacy-preserving by design; and
+* **New development tools** that assist programmers in building applications that are privacy-preserving by design; and
 
-* <i>New abstractions for responsible data management</i> that promote and facilitate a more rigorous and selective approach to data collection
+* **New abstractions for responsible data management** that promote and facilitate a more rigorous and selective approach to data collection
 and retention.
 
 
