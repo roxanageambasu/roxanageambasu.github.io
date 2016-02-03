@@ -3,12 +3,6 @@ layout: page
 title: Research
 ---
 
-Broadly speaking, I am interested in computer systems research, including
-distributed systems, security and privacy, operating systems, and
-databases. More specifically, my current research focuses on the challenges
-and opportunities created by today's emerging technologies, such as cloud
-computing and powerful mobile devices.  Brief descriptions of my research projects follow.
-
 ### Research Vision
 
 Generally speaking, my research spans many areas of computer systems, including distributed systems,
