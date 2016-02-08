@@ -2,6 +2,11 @@
 layout: page
 title: Publications
 ---
+* Yoshihisa Abe, Roxana Geambasu, Kaustubh Joshi, and Mahadev Satyanarayanan.
+  ''Urgent Virtual Machine Migration with Enlightened Post-copy.''
+  In Proceedings of the Conference of Virtual Execution Environments (VEE), Atlanta, GA, April 2016.
+  To appear.
+
 * Vaggelis Atlidakis, Jeremy Andrus, Roxana Geambasu, Dimitris Mitropoulos, and Jason Nieh.
   ''POSIX Abstractions in Modern Operating Systems: The Old, the New, and the Missing.''
   In Proceedings of the European Conference on Computer Systems (EuroSys), London, UK, April 2016.

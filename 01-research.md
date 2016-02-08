@@ -85,8 +85,9 @@ These projects are in collaboration with Gail Kaiser (Columbia) and Jason Nieh (
   For example, we show that state access histories can enable streaming of
   large VMs over wide area and even cellular networks with little loss in the
   VM's interactivity.
-  Read more in our [SoCC'15]({{ site.baseurl }}/publications/socc2013vtube.pdf)
-  paper.
+  Read more in our [SoCC'13]({{ site.baseurl }}/publications/socc2013vtube.pdf) and
+  [VEE'16]({{ site.baseurl }}/publications/)  <!-- vee2016epc.pdf -->
+  papers.
   This project is in collaboration with Prof. Satya (CMU) and Kaustubh Joshi (ATT Research).
 
 
