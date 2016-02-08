@@ -41,7 +41,7 @@ today's cutting-edge technologies, such as mobile devices, cloud computing, and
 distributed systems.
 
 For my research in cloud and mobile data privacy, I received 
-a Microsoft Research Faculty Fellowship, a `Brilliant 10''
+a Microsoft Research Faculty Fellowship, a ''Brilliant 10''
 Popular Science nomination, an NSF CAREER award,  an Early Career Award
 in Cybersecurity from the University of Washington Center for Academic
 Excellence, an Honorable Mention for the 2013 inaugural Dennis M. Ritchie
