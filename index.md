@@ -35,6 +35,11 @@ I joined Columbia in Fall 2011 after finishing my Ph.D. in Computer Science
 (CS) at the University of Washington.
 I did my undergraduate in my home country, Romania, at the Polytechnic
 University of Bucharest, also majoring in CS.
+I am now part of the [Columbia Software Systems Lab](http://systems.cs.columbia.edu/),
+an energetic group of professors and students working on highly relevant challenges in
+today's cutting-edge technologies, such as mobile devices, cloud computing, and
+distributed systems.
+
 For my research in cloud and mobile data privacy, I received 
 a Microsoft Research Faculty Fellowship, a `Brilliant 10''
 Popular Science nomination, an NSF CAREER award,  an Early Career Award
@@ -45,7 +50,6 @@ best paper awards at top systems conferences, and the first Google
 Ph.D. Fellowship in Cloud Computing.
 
 
-I am now part of the [Columbia Software Systems Lab](http://systems.cs.columbia.edu/), an energetic group of professors and students working on highly relevant challenges in today's cutting-edge technologies, such as mobile devices, cloud computing, and distributed systems.
 
 
 ### Recruiting
