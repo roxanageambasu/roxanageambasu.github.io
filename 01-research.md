@@ -86,8 +86,7 @@ These projects are in collaboration with Gail Kaiser (Columbia) and Jason Nieh (
   large VMs over wide area and even cellular networks with little loss in the
   VM's interactivity.
   Read more in our [SoCC'13]({{ site.baseurl }}/publications/socc2013vtube.pdf) and
-  [VEE'16]({{ site.baseurl }}/publications/)  <!-- vee2016epc.pdf -->
-  papers.
+  [VEE'16]({{ site.baseurl }}/publications/enlightened-migration.pdf) papers.
   This project is in collaboration with Prof. Satya (CMU) and Kaustubh Joshi (ATT Research).
 
 
