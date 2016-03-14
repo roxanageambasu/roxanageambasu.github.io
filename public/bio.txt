@@ -1,0 +1,13 @@
+Roxana Geambasu is an Assistant Professor of Computer Science
+at Columbia University and a member of Columbia's Data Sciences
+Institute. She joined Columbia in Fall 2011 after finishing her
+Ph.D. at the University of Washington.  For her work in cloud
+and mobile data privacy, she received an Alfred P. Sloan Faculty
+Fellowship, a Microsoft Research Faculty Fellowship, an NSF
+CAREER award, a ``Brilliant 10'' Popular Science nomination, an
+Early Career Award in Cybersecurity from the University of Washington
+Center for Academic Excellence, the Honorable Mention for the 2013
+inaugural Dennis M. Ritchie Doctoral Dissertation Award, a William
+Chan Dissertation Award, two best paper awards at top systems
+conferences, and the first Google Ph.D. Fellowship in Cloud
+Computing.
