@@ -35,8 +35,10 @@ title: Publications
 * Mathias Lecuyer, Guillaume Ducoffe, Francis Lan, Andrei Papancea, Theofilos Petsios, Riley Spahn, Augustin Chaintreau, and Roxana Geambasu.
 "XRay: Increasing the Web's Transparency with Differential Correlation."
 In Proceedings of the <a href="http://usenix.org/conference/usenixsecurity14">USENIX Security Symposium</a>,
-San Diego, CA, August 2014. [<a href="{{ site.baseurl }}/publications/usenixsec2014xray.pdf">PDF</a>]. <a href="http://bits.blogs.nytimes.com/2014/08/18/xray-a-new-tool-for-tracking-the-use-of-personal-data-on-the-web/"><font color="red">NYT Bits article</font></a>.
-<a href="http://matlecu.github.io/xray/">http://matlecu.github.io/xray/</a>.
+San Diego, CA, August 2014. [<a href="{{ site.baseurl }}/publications/usenixsec2014xray.pdf">PDF</a>].
+Website: <a href="http://matlecu.github.io/xray/">http://matlecu.github.io/xray/</a>.
+<a href="http://bits.blogs.nytimes.com/2014/08/18/xray-a-new-tool-for-tracking-the-use-of-personal-data-on-the-web/"><font color="red">NYT Bits article</font></a>.
+
 
 * Yoshihisa Abe, Roxana Geambasu, Kaustubh Joshi, H. Andres Lagar-Cavilla, and Mahadev Satyanarayanan.
 "vTube: Efficient Streaming of Virtual Appliances Over Last-Mile Networks."
