@@ -6,6 +6,7 @@ title: Publications
   ''POSIX Abstractions in Modern Operating Systems: The Old, the New, and the Missing.''
   In Proceedings of the European Conference on Computer Systems (EuroSys), London, UK, April 2016.
   [<a href="{{ site.baseurl }}/publications/eurosys2016posix.pdf">PDF</a>].
+  <a href="https://columbia.github.io/libtrack/">https://columbia.github.io/libtrack</a>.
 
 * Yoshihisa Abe, Roxana Geambasu, Kaustubh Joshi, and Mahadev Satyanarayanan.
   ''Urgent Virtual Machine Migration with Enlightened Post-copy.''
@@ -17,7 +18,7 @@ title: Publications
   In Proceedings of the ACM Conference on Computer and Communications Security (CCS), Denver, Colorado,
   October 2015.
   [<a href="{{ site.baseurl }}/publications/ccs2015sunlight.pdf">PDF</a>].
-  Website: <a
+  <a
   href="https://columbia.github.io/sunlight">https://columbia.github.io/sunlight</a>.
 
 * Nicolas Viennot , Mathias Lecuyer, Jonathan Bell, Roxana Geambasu, and Jason
@@ -25,16 +26,17 @@ title: Publications
   Application Development.'' In Proceedings of the European
   Conference on Computer Systems (EuroSys), Bordeaux, France, April 2015.
   [<a href="{{ site.baseurl }}/publications/eurosys2015synapse.pdf">PDF</a>].
-  Website: <a
+  <a
   href="https://github.com/nviennot/synapse">https://github.com/nviennot/synapse</a>.
 
-* Riley Spahn, Jonathan Bell, Michael Lee, Sravan Bhamidipati, Roxana Geambasu, Gail Kaiser. ''Pebbles: Fine-Grained Data Management Abstractions for Modern Operating Systems.''  In Proceedings of the USENIX Operating Systems Design and Implementation (OSDI), Broomfield, CO, October 2014. [<a href="{{ site.baseurl }}/publications/osdi2014pebbles.pdf">PDF</a>].
+* Riley Spahn, Jonathan Bell, Michael Lee, Sravan Bhamidipati, Roxana Geambasu, Gail Kaiser. ''Pebbles: Fine-Grained Data Management Abstractions for Modern Operating Systems.''  In Proceedings of the USENIX Operating Systems Design and Implementation (OSDI), Broomfield, CO, October 2014.
+  [<a href="{{ site.baseurl }}/publications/osdi2014pebbles.pdf">PDF</a>].
 
 * Mathias Lecuyer, Guillaume Ducoffe, Francis Lan, Andrei Papancea, Theofilos Petsios, Riley Spahn, Augustin Chaintreau, and Roxana Geambasu.
 "XRay: Increasing the Web's Transparency with Differential Correlation."
 In Proceedings of the <a href="http://usenix.org/conference/usenixsecurity14">USENIX Security Symposium</a>,
 San Diego, CA, August 2014. [<a href="{{ site.baseurl }}/publications/usenixsec2014xray.pdf">PDF</a>]. <a href="http://bits.blogs.nytimes.com/2014/08/18/xray-a-new-tool-for-tracking-the-use-of-personal-data-on-the-web/"><font color="red">NYT Bits article</font></a>.
-Website <a href="http://matlecu.github.io/xray/">http://matlecu.github.io/xray/</a>.
+<a href="http://matlecu.github.io/xray/">http://matlecu.github.io/xray/</a>.
 
 * Yoshihisa Abe, Roxana Geambasu, Kaustubh Joshi, H. Andres Lagar-Cavilla, and Mahadev Satyanarayanan.
 "vTube: Efficient Streaming of Virtual Appliances Over Last-Mile Networks."
