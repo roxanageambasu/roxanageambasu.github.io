@@ -2,10 +2,15 @@
 layout: page
 title: Publications
 ---
+* Mathias Lecuyer, Riley Spahn, Roxana Geambasu, Tzu-Kuo Huang, and Siddhartha Sen.
+  ''Pyramid: Enhancing Selectivity in Big Data Protection with Count Featurization.''
+  In Proceedings of the IEEE Security and Privacy Symposium (IEEE S&P), San Jose, CA, May 2017.
+  Conditionally accepted for publication.
+
 * Florian Tramer, Vaggelis Atlidakis, Roxana Geambasu, Daniel Hsu, Jean-Pierre Hubaux, Mathias Humbert, Ari Juels, and Huang Lin.
   ''FairTest: Discovering Unwarranted Associations in Data-Driven Applications.''
-  In Proceedings of the IEEE European Symposium on Security and Privacy (EuroS&P), Saarbru ̈cken, Germany, March 2017.
-  To appear.
+  In Proceedings of the IEEE European Symposium on Security and Privacy (EuroS&P), Paris, France, April 2017.
+  [<a href="{{ site.baseurl }}/publications/eurosp2017fairtest.pdf">PDF</a>].
 
 * Vaggelis Atlidakis, Jeremy Andrus, Roxana Geambasu, Dimitris Mitropoulos, and Jason Nieh.
   ''POSIX Abstractions in Modern Operating Systems: The Old, the New, and the Missing.''
@@ -26,7 +31,7 @@ title: Publications
   <a
   href="https://columbia.github.io/sunlight">https://columbia.github.io/sunlight</a>.
 
-* Nicolas Viennot , Mathias Lecuyer, Jonathan Bell, Roxana Geambasu, and Jason
+* Nicolas Viennot, Mathias Lecuyer, Jonathan Bell, Roxana Geambasu, and Jason
   Nieh. ''Synapse: New Data Integration Abstractions for Agile Web
   Application Development.'' In Proceedings of the European
   Conference on Computer Systems (EuroSys), Bordeaux, France, April 2015.
