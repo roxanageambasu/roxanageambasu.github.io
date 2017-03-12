@@ -17,17 +17,14 @@ I am extremely fortunate to supervise a set of wonderful Ph.D. students:
 * [Vaggelis Atlidakis](http://www.cs.columbia.edu/~vatlidak/)
 * [Mathias Lecuyer](http://www.cs.columbia.edu/~mathias/) (co-advising with [Augustin Chaintreau](http://www.cs.columbia.edu/~augustin/))
 * [Riley Spahn](http://www.cs.columbia.edu/~riley/) (co-advising with [Gail
-  Kaiser](http://www.cs.columbia.edu/~kaiser/)) -- Riley just won the [Google Fellowship in Privacy](http://googleresearch.blogspot.com/2015/02/announcing-2015-north-american-google.html). Congrats, Riley!
+  Kaiser](http://www.cs.columbia.edu/~kaiser/))
 * [Giannis Spiliopoulos](http://spiliopoulos.github.io/)
-* [Nicolas Viennot](https://github.com/nviennot) (principal advisor is [Jason
-  Nieh](http://www.cs.columbia.edu/~nieh/))
 
-Other great student collaborators (current or past):
-<ul>
-    <li><a href="http://jonbell.net">Jonathan Bell</a>, Ph.D. student</li>
-    <li>Sravan Bhamidipati, M.S., now at [Knewton](http://www.knewton.com/)</li>
-    <li><a href="http://www.cs.columbia.edu/~ty/">Yang Tang</a>, Ph.D. student</li>
-</ul>
+Past students and collaborators::
+* [Jon Bell](http://jonbell.net), Ph.D. (with Prof. Gail Kaiser), now at George Mason
+* [Sravan Bhamidipati], M.S., now at [Knewton](http://www.knewton.com/)
+* [Yang Tang](http://www.cs.columbia.edu/~ty/), Ph.D. (ongoing with Prof. Junfeng Yang)
+* [Nicolas Viennot](https://github.com/nviennot), Ph.D. (with Prof. Jason Nieh), now at TwoSigma
 
 ### Short Bio
 
