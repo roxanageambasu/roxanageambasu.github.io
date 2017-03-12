@@ -3,7 +3,7 @@ layout: default
 title: Overview
 ---
 
-I am an assistant professor of Computer Science at Columbia University. My research spans broad areas of computer systems,
+I am an associate professor of Computer Science at Columbia University. My research spans broad areas of computer systems,
 including distributed systems, security and privacy, operating systems, databases, and applications of cryptography and machine
 learning to systems.
 Much of my current research aims to expose problems and invent solutions to threats to our data security and privacy in the context of new, emerging technologies, such as cloud computing, mobile devices, and big data.
