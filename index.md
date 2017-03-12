@@ -22,7 +22,7 @@ I am extremely fortunate to supervise a set of wonderful Ph.D. students:
 
 Past students and collaborators::
 * [Jon Bell](http://jonbell.net), Ph.D. (with Prof. Gail Kaiser), now at George Mason
-* [Sravan Bhamidipati], M.S., now at [Knewton](http://www.knewton.com/)
+* Sravan Bhamidipati, M.S., now at [Knewton](http://www.knewton.com/)
 * [Yang Tang](http://www.cs.columbia.edu/~ty/), Ph.D. (ongoing with Prof. Junfeng Yang)
 * [Nicolas Viennot](https://github.com/nviennot), Ph.D. (with Prof. Jason Nieh), now at TwoSigma
 
