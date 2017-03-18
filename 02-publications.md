@@ -5,7 +5,7 @@ title: Publications
 * Mathias Lecuyer, Riley Spahn, Roxana Geambasu, Tzu-Kuo Huang, and Siddhartha Sen.
   ''Pyramid: Enhancing Selectivity in Big Data Protection with Count Featurization.''
   In Proceedings of the IEEE Security and Privacy Symposium (IEEE S&P), San Jose, CA, May 2017.
-  Conditionally accepted for publication.
+  To appear.
 
 * Florian Tramer, Vaggelis Atlidakis, Roxana Geambasu, Daniel Hsu, Jean-Pierre Hubaux, Mathias Humbert, Ari Juels, and Huang Lin.
   ''FairTest: Discovering Unwarranted Associations in Data-Driven Applications.''
