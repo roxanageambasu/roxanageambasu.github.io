@@ -12,12 +12,13 @@ title: Publications
 * Florian Tramer, Vaggelis Atlidakis, Roxana Geambasu, Daniel Hsu, Jean-Pierre Hubaux, Mathias Humbert, Ari Juels, and Huang Lin.
   ''FairTest: Discovering Unwarranted Associations in Data-Driven Applications.''
   In Proceedings of the IEEE European Symposium on Security and Privacy (EuroS&P), Paris, France, April 2017.
-  [<a href="{{ site.baseurl }}/publications/eurosp2017fairtest.pdf">PDF</a>].
+  [<a href="{{ site.baseurl }}/publications/eurosp2017fairtest.pdf">PDF</a>],
+  <a href="http://columbia.github.io/fairtest/">http://columbia.github.io/fairtest/</a>.
 
 * Vaggelis Atlidakis, Jeremy Andrus, Roxana Geambasu, Dimitris Mitropoulos, and Jason Nieh.
   ''POSIX Abstractions in Modern Operating Systems: The Old, the New, and the Missing.''
   In Proceedings of the European Conference on Computer Systems (EuroSys), London, UK, April 2016.
-  [<a href="{{ site.baseurl }}/publications/eurosys2016posix.pdf">PDF</a>].
+  [<a href="{{ site.baseurl }}/publications/eurosys2016posix.pdf">PDF</a>],
   <a href="https://columbia.github.io/libtrack/">https://columbia.github.io/libtrack</a>.
 
 * Yoshihisa Abe, Roxana Geambasu, Kaustubh Joshi, and Mahadev Satyanarayanan.
