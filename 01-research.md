@@ -60,6 +60,9 @@ that leverage them to enhance data security and reduce data management costs thr
 Read about our first tool, called Pyramid, in our recent [IEEE S&P paper]({{ site.baseurl }}/publications/oakland2017pyramid.pdf).
 And about the overall project on our website: [http://columbia.github.io/selective-data-systems/](http://columbia.github.io/selective-data-systems/).
 
+
+### Notable Past Projects:
+
 * **Modern protection abstractions for modern OSes:**
 Data storage abstractions in OSes have
 evolved enormously. Yet, data protection abstractions are still applied at the old abstraction
@@ -68,9 +71,6 @@ that are more suitable for modern operating systems.
 Read about the abstractions we developed thus far in our [OSDI 2012]({{ site.baseurl }}/publications/osdi2012cleanos.pdf),
 [OSDI 2014]({{ site.baseurl }}/publications/osdi2014pebbles.pdf), and [EuroSys 2016]({{ site.baseurl }}/publications/eurosys2016posix.pdf)
 papers.
-[http://columbia.github.io/fairtest/](http://columbia.github.io/fairtest/)
-
-### Notable Past Projects:
 
 * **Heterogeneous-database replication:**
   We build <i>Synapse</i>, a heterogeneous-database replication system,
