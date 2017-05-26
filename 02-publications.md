@@ -73,15 +73,15 @@ Macao, China, June 2012. [<a href="{{ site.baseurl }}/publications/meerkats-posi
 
 * Roxana Geambasu. "Regaining Control over Cloud and Mobile Data."
 Ph.D. dissertation, University of Washington, Seattle, WA, August 2011.
-<font color="red">The SIGOPS Dennis M. Ritchie Doctoral Dissertation Honorable Mention</font>;
-<font color="red">The William Chan Memorial Dissertation Award</font>.
+**The SIGOPS Dennis M. Ritchie Doctoral Dissertation Honorable Mention**;
+**The William Chan Memorial Dissertation Award**.
 [<a href="{{ site.baseurl }}/publications/phd-dissertation.pdf">PDF</a>].
 
 * Roxana Geambasu, John P. John, Steven D. Gribble, Tadayoshi Kohno, and
 Henry M. Levy. "Keypad: An Auditing File System for Theft-prone Devices."
 In Proceedings of the <a href="http://eurosys2011.cs.uni-salzburg.at/">European
 Conference on Computer Systems (EuroSys)</a>, Salzburg, Austria, April 2011.
-<font color="red">Best Student Paper Award</font>.
+**Award paper**.
  [<a href="{{ site.baseurl }}/publications/eurosys2011keypad.pdf">PDF</a>];
 [<a href="{{ site.baseurl }}/publications/eurosys2011keypad_talk.ppt">PPT</a>].
 
@@ -102,7 +102,7 @@ Vancouver, Canada, October 2010. <br>
 * Roxana Geambasu, Tadayoshi Kohno, Amit Levy, Henry M. Levy.
 "Vanish: Increasing Data Privacy with Self-Destructing Data."
 In Proceedings of the <a href="http://www.usenix.org/event/sec09/">18th USENIX
-Security Symposium</a>, Montreal, Canada, August 2009. <font color="red">Outstanding Student Paper Award</font>.
+Security Symposium</a>, Montreal, Canada, August 2009. **Award paper**.
 [<a href="{{ site.baseurl }}/publications/usenixsec09-geambasu.pdf">PDF</a>];
 [<a href="{{ site.baseurl }}/publications/usenixsec09-geambasu.ppt">PPT</a>].
 
