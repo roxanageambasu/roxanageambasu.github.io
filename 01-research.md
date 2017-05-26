@@ -30,23 +30,14 @@ and retention.
 ### Ongoing Projects
 
 * **Web transparency tools:**
-  Today's Web services are like black boxes.  They use users' personal
-  information for all sorts of purposes but the users do not know how their
-  data is being used.
-  To enhance transparency, we are building a new set
-  of scalable infrastructures to detect data uses for targeting and personalization.
-  The insight is to compare ads, prices, and other personalized content
-  witnessed by different accounts with   similar, but not identical, subsets
-  of the data.
-  <i>XRay</i>, our first system, detects targeting through correlation
-  ([USENIX Security'14 paper]({ site.baseurl }}/publications/usenixsec2014xray.pdf)).
-  <i>Sunlight</i>, our second system, more significantly establishes the causes
-  of targeting ([CCS'15 paper]({ site.baseurl }}/publications/ccs2015sunlight.pdf)).
-  <i>DataObservatory</i>, an in-progress system, detects pieces of arbitrary
-  web pages that are personalized or targeted at particular user information.
-  These projects are in collaboration with Augustin Chaintreau (Columbia), Daniel Hsu (Columbia),
-  and Arvind Narayanan (Princeton).
-  Read more on the project's [website](http://columbia.github.io/sunlight/).
+  Today's Web services are like black boxes. They use users' personal
+information for all sorts of purposes but the users do not know how their data is being used.
+To enhance transparency, we are building a new set of scalable infrastructures
+([XRay]({{ site.baseurl }}/publications/usenixsec2014xray.pdf) and
+[Sunlight]({{ site.baseurl }}/publications/ccs2015sunlight.pdf)) to detect data uses for
+targeting and personalization. The insight is to compare ads, prices, and other personalized
+content witnessed by different accounts with similar, but not identical, subsets of the data.
+[http://columbia.github.io/sunlight/](http://columbia.github.io/sunlight/).
 
 * **Testing the fairness of data-driven applications:**
   Today's programmers routinely pass immense and varied kinds of personal
@@ -54,32 +45,43 @@ and retention.
   associations and inferences are difficult to anticipate and analyze.
   This results in a great risk for unintended discriminatory or disparate
   impact effects.
-  We are building <i>FairTest</i>, a testing toolkit for programmers to
-  discover unintended associations.
-  This project is in collaboration with Daniel Hsu (Columbia), Ari Juels (Cornell Tech),
-  and Jean-Pierre Hubaux (EPFL).
-  Read more in our [tech report](http://arxiv.org/abs/1510.02377).
+  We are building [FairTest]({{ site.baseurl }}/publications/eurosp2017fairtest.pdf), a
+  testing toolkit for programmers to discover unintended associations.
+  [http://columbia.github.io/fairtest/](http://columbia.github.io/fairtest/)
+
+* **Selective data systems:**
+  We are challenging a common practice in both private and public sectors of collecting vast
+quantities of personal information. We ask whether it is possible to build data-driven systems,
+such as machine learning-based personalization systems, that are more selective with the data
+they collect. This entails pinpointing the data that is valuable for the current and evolving
+workload, and either not collecting or setting aside the data that is not truly valuable.
+We are constructing tools to create this separation and data management and protection systems
+that leverage them to enhance data security and reduce data management costs through selectivity.
+Read about our first tool, called Pyramid, in our recent [IEEE S&P paper]({{ site.baseurl }}/publications/oakland2017pyramid.pdf).
+And about the overall project on our website: [http://columbia.github.io/selective-data-systems/](http://columbia.github.io/selective-data-systems/).
 
 * **Modern protection abstractions for modern OSes:**
-  Data storage abstractions in OSes have evolved enormously. While traditional OSes used to provide fairly low-level abstractions -- files and 
-directories -- modern OSes, including Android, iOS, OSX, and recent Windows, embed much higher-level abstractions, such as relational databases or object-relational models. Despite the change in abstraction, many crucial protection systems, such as encryption or deniable systems, still operate at the old file level, which often renders them ineffective. We are investigating new data protection abstractions
-that are more suitable for modern operating systems, including a new *logical data object* abstraction, which corresponds directly
-to user-level objects, such as emails, documents, or pictures. Thus far, we've investigated two end-of-spectrum approaches for
-implementing logical data objects: (1) expose a new APIs to app programmers (*CleanOS* system, described in an [OSDI'12 paper]({{ site.baseurl }}/publications/osdi2012cleanos.pdf)) and (2) recognize objects automatically by leveraging structural information from modern storage abstractions (*Pebbles* system, described in an [OSDI'14 paper]({{ site.baseurl }}/publications/osdi2014pebbles.pdf)).
-Our work is driven by our measurement studies of modern application use of traditional OS abstractions -- see our [EuroSys'16 paper]({{ site.baseurl }}/publications/eurosys2016posix.pdf) for some interesting findings.
-These projects are in collaboration with Gail Kaiser (Columbia) and Jason Nieh (Columbia).
+Data storage abstractions in OSes have
+evolved enormously. Yet, data protection abstractions are still applied at the old abstraction
+level, often rendering them ineffective. We are investigating new data protection abstractions
+that are more suitable for modern operating systems.
+Read about the abstractions we developed thus far in our [OSDI 2012]({{ site.baseurl }}/publications/osdi2012cleanos.pdf),
+[OSDI 2014]({{ site.baseurl }}/publications/osdi2014pebbles.pdf), and [EuroSys 2016]({{ site.baseurl }}/publications/eurosys2016posix.pdf)
+papers.
+[http://columbia.github.io/fairtest/](http://columbia.github.io/fairtest/)
+
+### Notable Past Projects:
 
 * **Heterogeneous-database replication:**
-  We are building <i>Synapse</i>, a heterogeneous-database replication system,
+  We build <i>Synapse</i>, a heterogeneous-database replication system,
   which lets programmers of complex, multi-service Web applications to share
   data across services running on very distinct database engines, in real time,
   and with solid consistency semantics.
   We deployed Synapse at a NYC startup.
   Read more in our [EuroSys 2015 paper]({{ site.baseurl }}/publications/eurosys2015synapse.pdf).
-  This project is in collaboration with Jason Nieh (Columbia).
 
 * **Virtual machine migration.**
-  We are improving virtual machine (VM) migration mechanisms
+  We improve virtual machine (VM) migration mechanisms
   by incorporating past state access histories and hints provided
   by the guest operating system.
   For example, we show that state access histories can enable streaming of
@@ -87,10 +89,6 @@ These projects are in collaboration with Gail Kaiser (Columbia) and Jason Nieh (
   VM's interactivity.
   Read more in our [SoCC'13]({{ site.baseurl }}/publications/socc2013vtube.pdf) and
   [VEE'16]({{ site.baseurl }}/publications/enlightened-migration.pdf) papers.
-  This project is in collaboration with Prof. Satya (CMU) and Kaustubh Joshi (ATT Research).
-
-
-### Notable Past Projects:
 
 * **File auditing for mobile devices:**
   With today's limited anti-theft tools, users can neither assuredly restrict nor
@@ -99,14 +97,6 @@ These projects are in collaboration with Gail Kaiser (Columbia) and Jason Nieh (
   mobile devices by providing users with post-theft fine-grained access auditing.
   Read our [EuroSys'11 paper]({{ site.baseurl }}/publications/eurosys2011keypad.pdf")
   (awarded Best Student Paper).
-
-* **Cloud storage customization with active storage.**
-  Today's cloud storage services, such as Amazon S3, are highly inflexible and
-  impose a variety of constraints on their clients: specific data consistency
-  properties, fixed replication factors, limited logging, etc. I built
-  <i>Comet</i>, an extensible storage service that allows clients to inject snippets
-  of code that control the behavior of their data inside the storage service.
-  Read our [OSDI'10 paper]({{ site.baseurl }}/publications/osdi2010comet.pdf").
 
 * **Data lifetime control with self-destructing data.**
   Users' migration to cloud and Web services is causing them to lose
