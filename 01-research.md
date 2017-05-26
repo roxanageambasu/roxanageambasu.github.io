@@ -20,7 +20,7 @@ To forge this new web ecosystem, we design, build, and evaluate:
 (1) *new transparency tools* that increase society's oversight regarding how applications use personal data in order to detect and deter
 unfair and deceptive practices;
 (2) *new development tools* that assist programmers in building applications that are privacy-preserving by design; and
-(3) *new abstractions for responsible data management** that promote and facilitate a more rigorous and selective approach to data collection
+(3) *new abstractions for responsible data management* that promote and facilitate a more rigorous and selective approach to data collection
 and retention.
 
 
