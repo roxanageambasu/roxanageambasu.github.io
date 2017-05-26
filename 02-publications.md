@@ -73,7 +73,7 @@ Macao, China, June 2012. [<a href="{{ site.baseurl }}/publications/meerkats-posi
 
 * Roxana Geambasu. "Regaining Control over Cloud and Mobile Data."
 Ph.D. dissertation, University of Washington, Seattle, WA, August 2011.
-**The SIGOPS Dennis M. Ritchie Doctoral Dissertation Honorable Mention**;
+**The SIGOPS Dennis M. Ritchie Doctoral Dissertation Honorable Mention**.
 **The William Chan Memorial Dissertation Award**.
 [<a href="{{ site.baseurl }}/publications/phd-dissertation.pdf">PDF</a>].
 
