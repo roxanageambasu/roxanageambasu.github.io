@@ -69,7 +69,7 @@ Matthew Elder, Darrell Kienzle, and Angelos Stavrou.
 "The MEERKATS Cloud Security Architecture."
 In Proceedings of the <a href="http://www.ece.iit.edu/~ubisec/workshop.htm">
 3rd International Workshop on Security and Privacy in Cloud Computing (ICDCS-SPCC)</a>,
-Macao, China, June 2012. [<a href={{ site.baseurl }}/publications/meerkats-position.pdf">PDF</a>].
+Macao, China, June 2012. [<a href="{{ site.baseurl }}/publications/meerkats-position.pdf">PDF</a>].
 
 * Roxana Geambasu. "Regaining Control over Cloud and Mobile Data."
 Ph.D. dissertation, University of Washington, Seattle, WA, August 2011.
