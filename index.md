@@ -18,7 +18,6 @@ I am extremely fortunate to supervise a set of wonderful Ph.D. students:
 * [Mathias Lecuyer](http://www.cs.columbia.edu/~mathias/) (co-advising with [Augustin Chaintreau](http://www.cs.columbia.edu/~augustin/))
 * [Riley Spahn](http://www.cs.columbia.edu/~riley/) (co-advising with [Gail
   Kaiser](http://www.cs.columbia.edu/~kaiser/))
-* [Giannis Spiliopoulos](http://spiliopoulos.github.io/)
 
 Past students and collaborators::
 * [Jon Bell](http://jonbell.net), Ph.D. (with Prof. Gail Kaiser), now at George Mason
