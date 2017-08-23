@@ -15,6 +15,7 @@ Read about some of my research [here]({{ site.baseurl }}/01-research/).
 I am extremely fortunate to supervise a set of wonderful Ph.D. students:
 
 * [Vaggelis Atlidakis](http://www.cs.columbia.edu/~vatlidak/)
+* Brian Goodchild (co-advised with [Ethan Katz-Bassett](http://www.ee.columbia.edu/ethan-katz-bassett))
 * [Mathias Lecuyer](http://www.cs.columbia.edu/~mathias/) (co-advising with [Augustin Chaintreau](http://www.cs.columbia.edu/~augustin/))
 * [Riley Spahn](http://www.cs.columbia.edu/~riley/) (co-advising with [Gail
   Kaiser](http://www.cs.columbia.edu/~kaiser/))
