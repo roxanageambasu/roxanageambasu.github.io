@@ -4,7 +4,7 @@ title: Teaching
 ---
 
 * [Distributed Systems Fundamentals](https://columbia.github.io/ds1-class/), undergraduate-level course. Taught: F12, F13, F14, F17.
-* [Advanced Distributed Systems](https://columbia.github.io/ds2-class/), graduate-level research seminar. Taught: S15.
+* [Advanced Distributed Systems](https://columbia.github.io/ds2-class/), graduate-level research seminar. Taught: S15, F15.
 * [Computer Systems for Big Data](https://columbia.github.io/systems-bigdata-class/), MS course for Columbia's Data Science Institute. Co-Taught: S15, S16.
 * Cloud and Mobile Security Seminar, graduate-level research seminar.  Taught: F11, S13, S14.
 
