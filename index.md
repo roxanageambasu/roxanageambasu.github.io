@@ -16,15 +16,15 @@ I am extremely fortunate to supervise a set of wonderful Ph.D. students:
 
 * [Vaggelis Atlidakis](http://www.cs.columbia.edu/~vatlidak/)
 * Brian Goodchild (co-advised with [Ethan Katz-Bassett](http://www.ee.columbia.edu/ethan-katz-bassett))
-* [Mathias Lecuyer](http://www.cs.columbia.edu/~mathias/) (co-advising with [Augustin Chaintreau](http://www.cs.columbia.edu/~augustin/))
-* [Riley Spahn](http://www.cs.columbia.edu/~riley/) (co-advising with [Gail
+* [Mathias Lecuyer](http://www.cs.columbia.edu/~mathias/) (co-advised with [Augustin Chaintreau](http://www.cs.columbia.edu/~augustin/))
+* [Riley Spahn](http://www.cs.columbia.edu/~riley/) (co-advised with [Gail
   Kaiser](http://www.cs.columbia.edu/~kaiser/))
 
 Past students and collaborators::
-* [Jon Bell](http://jonbell.net), Ph.D. (with Prof. Gail Kaiser), now at George Mason
-* Sravan Bhamidipati, M.S., now at [Knewton](http://www.knewton.com/)
-* [Yang Tang](http://www.cs.columbia.edu/~ty/), Ph.D. (ongoing with Prof. Junfeng Yang)
-* [Nicolas Viennot](https://github.com/nviennot), Ph.D. (with Prof. Jason Nieh), now at TwoSigma
+* [Jon Bell](http://jonbell.net), Ph.D., now at George Mason
+* Sravan Bhamidipati, M.S., now at Knewton
+* [Yang Tang](http://www.cs.columbia.edu/~ty/)
+* [Nicolas Viennot](https://github.com/nviennot), Ph.D., now at TwoSigma
 
 ### Short Bio
 
