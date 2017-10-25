@@ -7,6 +7,7 @@ title: Publications
   In Proceedings of the IEEE Security and Privacy Symposium (IEEE S&P), San Jose, CA, May 2017.
   [<a href="{{ site.baseurl }}/publications/oakland2017pyramid.pdf">PDF</a>],
   [<a href="https://arxiv.org/abs/1705.07512">Arxiv Extended Tech Report</a>],
+  [<a href="{{ site.baseurl }}/publications/spmagazine2018pyramid.pdf">Wider-audience S&P Magazine version</a>],
   <a href="https://columbia.github.io/selective-data-systems/">https://columbia.github.io/selective-data-systems/</a>.
 
 * Florian Tramer, Vaggelis Atlidakis, Roxana Geambasu, Daniel Hsu, Jean-Pierre Hubaux, Mathias Humbert, Ari Juels, and Huang Lin.
