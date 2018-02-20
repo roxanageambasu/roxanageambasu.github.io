@@ -2,12 +2,20 @@
 layout: page
 title: Publications
 ---
+* Mathias Lecuyer, Vaggelis Atlidakis, Roxana Geambasu, Daniel Hsu, and Suman Jana.
+  ''On the Connection Between Differential Privacy and Adversarial Robustness in Machine Learning.''
+  [https://arxiv.org/abs/1802.03471](https://arxiv.org/abs/1802.03471), 2018.
+
+* Mathias Lecuyer, Riley Spahn, Roxana Geambasu, Tzu-Kuo Huang, and Siddhartha Sen.
+  ''Enhancing Selectivity in Big Data.''
+  IEEE Security and Privacy Symposium Magazine, 2018. Invited paper.
+  [<a href="{{ site.baseurl }}/publications/spmagazine2018pyramid.pdf">PDF</a>].
+  
 * Mathias Lecuyer, Riley Spahn, Roxana Geambasu, Tzu-Kuo Huang, and Siddhartha Sen.
   ''Pyramid: Enhancing Selectivity in Big Data Protection with Count Featurization.''
   In Proceedings of the IEEE Security and Privacy Symposium (IEEE S&P), San Jose, CA, May 2017.
   [<a href="{{ site.baseurl }}/publications/oakland2017pyramid.pdf">PDF</a>],
   [<a href="https://arxiv.org/abs/1705.07512">Arxiv Extended Tech Report</a>],
-  [<a href="{{ site.baseurl }}/publications/spmagazine2018pyramid.pdf">Wider-audience S&P Magazine version</a>],
   <a href="https://columbia.github.io/selective-data-systems/">https://columbia.github.io/selective-data-systems/</a>.
 
 * Florian Tramer, Vaggelis Atlidakis, Roxana Geambasu, Daniel Hsu, Jean-Pierre Hubaux, Mathias Humbert, Ari Juels, and Huang Lin.
