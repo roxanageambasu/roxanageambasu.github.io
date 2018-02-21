@@ -22,6 +22,8 @@ title: Publications
   ''FairTest: Discovering Unwarranted Associations in Data-Driven Applications.''
   In Proceedings of the IEEE European Symposium on Security and Privacy (EuroS&P), Paris, France, April 2017.
   [<a href="{{ site.baseurl }}/publications/eurosp2017fairtest.pdf">PDF</a>],
+  [more systemsy version of the paper]({{ site.baseurl
+  }}/publications/fairtest2017-systems-tr.pdf)
   <a href="http://columbia.github.io/fairtest/">http://columbia.github.io/fairtest/</a>.
 
 * Vaggelis Atlidakis, Jeremy Andrus, Roxana Geambasu, Dimitris Mitropoulos, and Jason Nieh.
