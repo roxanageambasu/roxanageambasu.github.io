@@ -3,8 +3,10 @@ layout: page
 title: Publications
 ---
 * Mathias Lecuyer, Vaggelis Atlidakis, Roxana Geambasu, Daniel Hsu, and Suman Jana.
-  ''On the Connection Between Differential Privacy and Adversarial Robustness in Machine Learning.''
-  [https://arxiv.org/abs/1802.03471](https://arxiv.org/abs/1802.03471), 2018.
+  ''Certified Robustness to Adversarial Examples with Differential Privacy.''
+  In Proceedings of the IEEE Security and Privacy Symposium (IEEE S&P), San
+  Francisco, CA, May 2019.  To appear.
+  [https://arxiv.org/abs/1802.03471](https://arxiv.org/abs/1802.03471).
 
 * Mathias Lecuyer, Riley Spahn, Roxana Geambasu, Tzu-Kuo Huang, and Siddhartha Sen.
   ''Enhancing Selectivity in Big Data.''
