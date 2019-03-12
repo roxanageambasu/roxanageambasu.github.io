@@ -16,9 +16,8 @@ I am extremely fortunate to supervise a set of wonderful Ph.D. students:
 
 * [Vaggelis Atlidakis](http://www.cs.columbia.edu/~vatlidak/)
 * Brian Goodchild (co-advised with [Ethan Katz-Bassett](http://www.ee.columbia.edu/ethan-katz-bassett))
-* [Mathias Lecuyer](http://www.cs.columbia.edu/~mathias/) (co-advised with [Augustin Chaintreau](http://www.cs.columbia.edu/~augustin/))
-* [Riley Spahn](http://www.cs.columbia.edu/~riley/) (co-advised with [Gail
-  Kaiser](http://www.cs.columbia.edu/~kaiser/))
+* [Mathias Lecuyer](http://www.cs.columbia.edu/~mathias/)
+* [Riley Spahn](http://www.cs.columbia.edu/~riley/)
 
 Past students and collaborators::
 * [Jon Bell](http://jonbell.net), Ph.D., now at George Mason
