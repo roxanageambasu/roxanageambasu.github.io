@@ -5,8 +5,10 @@ title: Publications
 * Mathias Lecuyer, Vaggelis Atlidakis, Roxana Geambasu, Daniel Hsu, and Suman Jana.
   ''Certified Robustness to Adversarial Examples with Differential Privacy.''
   In Proceedings of the IEEE Security and Privacy Symposium (IEEE S&P), San
-  Francisco, CA, May 2019.  To appear.
-  [https://arxiv.org/abs/1802.03471](https://arxiv.org/abs/1802.03471).
+  Francisco, CA, May 2019.  [<a href="{{ site.baseurl
+  }}/publications/sp2019pixeldp">PDF</a>].
+  <a
+  href="https://columbia.github.io/pixeldp/">https://columbia.github.io/pixeldp</a>.
 
 * Mathias Lecuyer, Riley Spahn, Roxana Geambasu, Tzu-Kuo Huang, and Siddhartha Sen.
   ''Enhancing Selectivity in Big Data.''
