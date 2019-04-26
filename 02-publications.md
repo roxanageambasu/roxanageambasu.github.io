@@ -8,7 +8,7 @@ title: Publications
   Francisco, CA, May 2019.  [<a href="{{ site.baseurl
   }}/publications/sp2019pixeldp.pdf">PDF</a>].
   <a
-  href="https://columbia.github.io/pixeldp/">https://github.com/columbia/pixeldp</a>.
+  href="https://columbia.github.com/columbia/pixeldp">https://github.com/columbia/pixeldp</a>.
 
 * Mathias Lecuyer, Riley Spahn, Roxana Geambasu, Tzu-Kuo Huang, and Siddhartha Sen.
   ''Enhancing Selectivity in Big Data.''
