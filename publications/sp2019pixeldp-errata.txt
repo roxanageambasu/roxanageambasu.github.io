@@ -1,0 +1,7 @@
+The proceedings version this paper contained an incorrect claim in Lemma 1
+for outputs that can be negative. Because the paper focused on classification,
+where DNN scores are in [0,1], the error had no impact on the claims or
+experimental results for classification.  The updated version of the paper,
+linked on this website: (1) corrects the error by constraining Lemma 1 to
+positive outputs and (2) shows how to support negative outputs (and therefore
+general regression problems) in the Appendix/Lemma 2.
