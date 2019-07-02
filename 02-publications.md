@@ -6,7 +6,8 @@ title: Publications
   ''Certified Robustness to Adversarial Examples with Differential Privacy.''
   In Proceedings of the IEEE Security and Privacy Symposium (IEEE S&P), San
   Francisco, CA, May 2019.  [<a href="{{ site.baseurl
-  }}/publications/sp2019pixeldp.pdf">PDF</a>].
+  }}/publications/sp2019pixeldp-corrected.pdf">PDF</a>] (corrects <a href="{{ site.baseurl
+  }}/publications/sp2019pixeldp-errata.txt">error</a> in proceedings version).
   <a
   href="https://columbia.github.com/columbia/pixeldp">https://github.com/columbia/pixeldp</a>.
 

@@ -42,7 +42,7 @@ content witnessed by different accounts with similar, but not identical, subsets
   associations and inferences are difficult to anticipate and analyze.
   This results in a great risk for unintended discriminatory or disparate
   impact effects.
-  We are building [FairTest]({{ site.baseurl }}/publications/eurosp2017fairtest.pdf), a
+  We built [FairTest]({{ site.baseurl }}/publications/eurosp2017fairtest.pdf), a
   testing toolkit for programmers to discover unintended associations.
   [http://columbia.github.io/fairtest/](http://columbia.github.io/fairtest/)
 
