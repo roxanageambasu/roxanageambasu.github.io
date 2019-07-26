@@ -3,9 +3,14 @@ layout: page
 title: Publications
 ---
 * Mathias Lecuyer, Riley Spahn, Kiran Vodrahalli, Roxana Geambasu, and Daniel
-  Hsu.  ''Privacy Accounting and Quality Control in the {Sage} Differentially
+  Hsu.  ''Privacy Accounting and Quality Control in the Sage Differentially
   Private Machine Learning Platform.'' In Proceedings of the ACM Symposium on
   Operating Systems Principles (SOSP), Ontario, Canada, October 2019. [to appear]
+
+* Mathias Lecuyer, Riley Spahn, Kiran Vodrahalli, Roxana Geambasu, and Daniel
+  Hsu. ''Privacy Accounting and Quality Control in the Sage Differentially
+  Private Machine Learning Platform.'' In ACM SIGOPS Operating Systems Review
+  (OSR), July 2019.  [PDF](https://dl.acm.org/citation.cfm?id=3352032)
 
 * Mathias Lecuyer, Vaggelis Atlidakis, Roxana Geambasu, Daniel Hsu, and Suman Jana.
   ''Certified Robustness to Adversarial Examples with Differential Privacy.''
