@@ -3,9 +3,10 @@ layout: page
 title: Teaching
 ---
 
-* [Distributed Systems Fundamentals](https://columbia.github.io/ds1-class/), undergraduate-level course. Taught: F12, F13, F14, F17.
+* [Distributed Systems Fundamentals](https://columbia.github.io/ds1-class/),
+  undergraduate-level course. Taught: F12, F13, F14, F17, F18, F19.
 * [Advanced Distributed Systems](https://columbia.github.io/ds2-class/),
-  graduate-level research seminar. Taught: S15, F15, S18.
+  graduate-level research seminar. Taught: S15, F15, S18, S19.
 * [Computer Systems for Big
   Data](https://w4121.github.io/), MS course for
   Columbia's Data Science Institute. Co-Taught: S15, S16, S18.
