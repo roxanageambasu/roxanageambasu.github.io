@@ -7,7 +7,6 @@ title: Publications
   Private Machine Learning Platform.'' In Proceedings of the ACM Symposium on
   Operating Systems Principles (SOSP), Ontario, Canada, October 2019.
   [PDF]({{ site.baseurl }}/publications/sosp2019sage-with-appendix.pdf)
-  (includes appendices that do not appear in conference version).
 
 * Mathias Lecuyer, Riley Spahn, Kiran Vodrahalli, Roxana Geambasu, and Daniel
   Hsu. ''Privacy Accounting and Quality Control in the Sage Differentially
