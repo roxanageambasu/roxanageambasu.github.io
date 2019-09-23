@@ -10,20 +10,25 @@ Much of my current research aims to expose problems and invent solutions to thre
 I design, build, and evaluate scalable distributed infrastructures that address these problems.
 Read about some of my research [here]({{ site.baseurl }}/01-research/).
 
-### My Students
+### Students
 
-I am extremely fortunate to supervise a set of wonderful Ph.D. students:
+Current students:
+* [Vaggelis Atlidakis](http://www.cs.columbia.edu/~vatlidak/), Ph.D. candidate
+* Brian Goodchild, M.S. candidate
 
-* [Vaggelis Atlidakis](http://www.cs.columbia.edu/~vatlidak/)
-* Brian Goodchild (co-advised with [Ethan Katz-Bassett](http://www.ee.columbia.edu/ethan-katz-bassett))
-* [Mathias Lecuyer](http://www.cs.columbia.edu/~mathias/)
-* [Riley Spahn](http://www.cs.columbia.edu/~riley/)
+Graduated students for which I was primary advisor:
+* [Mathias Lecuyer](http://www.cs.columbia.edu/~mathias/), Ph.D. 2019, first employments:
+  Microsoft Research post-doc, University of British Columbia tenure-track CS
+  faculty
+* [Riley Spahn](http://www.cs.columbia.edu/~riley/), Ph.D. 2019, first employment: Google
 
-Past students and collaborators::
-* [Jon Bell](http://jonbell.net), Ph.D., now at George Mason
-* Sravan Bhamidipati, M.S., now at Knewton
-* [Yang Tang](http://www.cs.columbia.edu/~ty/)
-* [Nicolas Viennot](https://github.com/nviennot), Ph.D., now at TwoSigma
+Other past student collaborators:
+* [Jon Bell](http://jonbell.net), Ph.D. 2015, first employment: George Mason
+  University
+* Sravan Bhamidipati, M.S. 2013, first employment: Knewton
+* [Yang Tang](http://www.cs.columbia.edu/~ty/), Ph.D. 2019, first employment:
+  LaiOffer
+* [Nicolas Viennot](https://github.com/nviennot), Ph.D. 2017, first employment: TwoSigma
 
 ### Short Bio
 
