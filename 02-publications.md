@@ -14,7 +14,7 @@ title: Publications
   (OSR), volume 53, issue 1, July 2019.  [PDF](https://dl.acm.org/citation.cfm?id=3352032)
 
 * Mathias Lecuyer, Vaggelis Atlidakis, Roxana Geambasu, Daniel Hsu, and Suman Jana.
-  ''Certified Robustness to Adversarial Examples with Differential Privacy.''
+  PixelDP: ''Certified Robustness to Adversarial Examples with Differential Privacy.''
   In Proceedings of the IEEE Security and Privacy Symposium (IEEE S&P), San
   Francisco, CA, May 2019.  [<a href="{{ site.baseurl
   }}/publications/sp2019pixeldp-corrected.pdf">PDF</a>] (corrects <a href="{{ site.baseurl
