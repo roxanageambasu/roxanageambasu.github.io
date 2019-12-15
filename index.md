@@ -14,15 +14,13 @@ Read about some of my research [here]({{ site.baseurl }}/01-research/).
 
 Current students:
 * [Vaggelis Atlidakis](http://www.cs.columbia.edu/~vatlidak/), Ph.D. candidate
-* Brian Goodchild, M.S. candidate
 
 Graduated students for which I was primary advisor:
 * [Mathias Lecuyer](http://www.cs.columbia.edu/~mathias/), Ph.D. 2019, first employments:
-  Microsoft Research post-doc, University of British Columbia tenure-track CS
-  faculty
+  Microsoft Research post-doc, University of British Columbia tenure-track CS faculty
 * [Riley Spahn](http://www.cs.columbia.edu/~riley/), Ph.D. 2019, first employment: Google
 
-Other past student collaborators:
+Past student co-authors:
 * [Jon Bell](http://jonbell.net), Ph.D. 2015, first employment: George Mason
   University
 * Sravan Bhamidipati, M.S. 2013, first employment: Knewton
@@ -49,8 +47,6 @@ Academic Excellence, the Honorable Mention for the 2013 inaugural Dennis M. Ritc
 Doctoral Dissertation Award, a William Chan Dissertation Award, two
 best paper awards at top systems conferences, and the first Google
 Ph.D. Fellowship in Cloud Computing.
-
-
 
 
 ### Recruiting
