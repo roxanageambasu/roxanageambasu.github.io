@@ -7,6 +7,8 @@ title: Teaching
   undergraduate-level course. Taught: F12, F13, F14, F17, F18, F19.
 * [Advanced Distributed Systems](https://columbia.github.io/ds2-class/),
   graduate-level research seminar. Taught: S15, F15, S18, S19.
+* [Private Distributed Systems](https://columbia.github.io/privacy-class/),
+  graduate-level research seminnar. Taught: S20.
 * [Computer Systems for Big
   Data](https://w4121.github.io/), MS course for
   Columbia's Data Science Institute. Co-Taught: S15, S16, S18.
@@ -16,7 +18,7 @@ title: Teaching
 ## M.S. System-Track Advising
 
 I serve as an M.S. advisor for the systems track. 
-I hold office hours for systems-track MS advising on **Wednesdays 11am-12:00pm**.
+I hold office hours for systems-track MS advising on **Thursdays 1:30pm-2pm**.
 Please come to the office hour instead of writing emails or requesting appointments.
 On-demand appointments will only be granted under special circumstances.
 </p>
