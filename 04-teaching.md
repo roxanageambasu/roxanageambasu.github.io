@@ -2,17 +2,15 @@
 layout: page
 title: Teaching
 ---
+I teach the core distributed systems curriculum at Columbia and am in the
+process of developing a privacy curriculum:
 
 * [Distributed Systems Fundamentals](https://columbia.github.io/ds1-class/),
-  undergraduate-level course. Taught: F12, F13, F14, F17, F18, F19.
+  undergraduate-level course. (Since 2012)
 * [Advanced Distributed Systems](https://columbia.github.io/ds2-class/),
-  graduate-level research seminar. Taught: S15, F15, S18, S19.
+  graduate-level research seminar. (Since 2015)
 * [Private Distributed Systems](https://columbia.github.io/privacy-class/),
-  graduate-level research seminnar. Taught: S20.
-* [Computer Systems for Big
-  Data](https://w4121.github.io/), MS course for
-  Columbia's Data Science Institute. Co-Taught: S15, S16, S18.
-* Cloud and Mobile Security Seminar, graduate-level research seminar.  Taught: F11, S13, S14.
+  graduate-level research seminnar. (New in 2020)
 
 <div id="msadvising"></div>
 ## M.S. System-Track Advising
