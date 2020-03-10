@@ -10,7 +10,7 @@ materials online:
   undergraduate-level course. (Since 2012)
 * [Advanced Distributed Systems](https://columbia.github.io/ds2-class/),
   graduate-level research seminar. (Since 2015)
-* [Private Distributed Systems](https://columbia.github.io/privacy-class/),
+* [Private Systems](https://columbia.github.io/private-systems-class/),
   graduate-level research seminnar. (New in 2020)
 
 <div id="msadvising"></div>
