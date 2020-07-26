@@ -15,7 +15,7 @@ Read about some of my research [here]({{ site.baseurl }}/01-research/).
 Current students:
 * [Vaggelis Atlidakis](http://www.cs.columbia.edu/~vatlidak/), Ph.D. candidate
 
-Graduated students for which I was primary advisor:
+Graduated students for whom I was primary advisor:
 * [Mathias Lecuyer](http://www.cs.columbia.edu/~mathias/), Ph.D. 2019, first employments:
   Microsoft Research post-doc, University of British Columbia tenure-track CS faculty
 * [Riley Spahn](http://www.cs.columbia.edu/~riley/), Ph.D. 2019, first employment: Google
