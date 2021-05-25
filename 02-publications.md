@@ -5,7 +5,8 @@ title: Publications
 * Tao Luo, Mingen Pan, Pierre Tholoniat, Asaf Cidon, Roxana Geambasu, and
   Mathias Lecuyer. ''Privacy Budget Scheduling and Orchestration.''
   In Proceedings of the USENIX Symposium on Operating Systems Design and
-  Implementation (OSDI), July 2021.  <b>To appear.</b>
+  Implementation (OSDI), July 2021.  [PDF]({{ site.baseurl
+  }}/publications/osdi2021privatekube.pdf)
 
 * Mathias Lecuyer, Riley Spahn, Kiran Vodrahalli, Roxana Geambasu, and Daniel
   Hsu.  ''Privacy Accounting and Quality Control in the Sage Differentially
