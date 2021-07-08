@@ -5,8 +5,9 @@ title: Publications
 * Tao Luo, Mingen Pan, Pierre Tholoniat, Asaf Cidon, Roxana Geambasu, and
   Mathias Lecuyer. ''Privacy Budget Scheduling and Orchestration.''
   In Proceedings of the USENIX Symposium on Operating Systems Design and
-  Implementation (OSDI), July 2021.  [PDF]({{ site.baseurl
-  }}/publications/osdi2021privatekube.pdf)
+  Implementation (OSDI), July 2021.  [[PDF]]({{ site.baseurl
+  }}/publications/osdi2021privatekube.pdf); [[extended
+  version]](https://arxiv.org/abs/2106.15335); [[project website]](https://systems.cs.columbia.edu/PrivateKube/)
 
 * Mathias Lecuyer, Riley Spahn, Kiran Vodrahalli, Roxana Geambasu, and Daniel
   Hsu.  ''Privacy Accounting and Quality Control in the Sage Differentially
