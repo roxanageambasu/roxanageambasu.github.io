@@ -2,6 +2,11 @@
 layout: page
 title: Publications
 ---
+* Matthew Jagielski, Stanley Wu, Alina Oprea, Jonathan Ullman, and Roxana
+  Geambasu. ''How to combine membership-inference attacks on multiple updated
+  models.'' In Proceedings of the Privacy-Enhancing Technologies Symposium
+  (PETS), 2023. [[PDF]](https://arxiv.org/abs/2205.06369)
+
 * Tao Luo, Mingen Pan, Pierre Tholoniat, Asaf Cidon, Roxana Geambasu, and
   Mathias Lecuyer. ''Privacy Budget Scheduling and Orchestration.''
   In Proceedings of the USENIX Symposium on Operating Systems Design and
