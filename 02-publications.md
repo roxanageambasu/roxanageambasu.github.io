@@ -2,6 +2,12 @@
 layout: page
 title: Publications
 ---
+* Kelly Kostopoulou, Pierre Tholoniat, Asaf Cidon, Roxana Geambasu, and
+  Mathias Lecuyer.  ''Turbo: Effective Caching in Differentially-Private Databases.'' 
+  In Proceedings of the ACM Symposium on Operating Systems Principles (SOSP),
+  Koblenz, Germany, October 2023.  [Accepted, camera ready in progress] [arxiv
+  version](https://arxiv.org/abs/2306.16163)
+
 * Matthew Jagielski, Stanley Wu, Alina Oprea, Jonathan Ullman, and Roxana
   Geambasu. ''How to combine membership-inference attacks on multiple updated
   models.'' In Proceedings of the Privacy-Enhancing Technologies Symposium
