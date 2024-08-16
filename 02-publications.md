@@ -2,6 +2,13 @@
 layout: page
 title: Publications
 ---
+* Pierre Tholoniat, Kelly Kostopoulou, Peter McNeely, Prabhpreet Singh Sodhi,
+  Anirudh Varanasi, Benjamin Case, Asaf Cidon, Roxana Geambasu, Mathias Lécuyer.
+  ''Cookie Monster: Efficient On-device Budgeting for Differentially-Private
+  Ad-Measurement Systems.'' In Proceedings of the ACM Symposium on Operating
+  Systems Principles (SOSP), Austin, Texas, November 2024.
+  [[draft]](https://arxiv.org/abs/2405.16719)
+
 * Kelly Kostopoulou, Pierre Tholoniat, Asaf Cidon, Roxana Geambasu, and
   Mathias Lecuyer.  ''Turbo: Effective Caching in Differentially-Private Databases.'' 
   In Proceedings of the ACM Symposium on Operating Systems Principles (SOSP),
