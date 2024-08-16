@@ -10,6 +10,14 @@ title: Publications
   version]](https://arxiv.org/abs/2306.16163); [[project
   website]](https://systems.cs.columbia.edu/dp-infrastructure)
 
+* Rachel Cummings, Damien Desfontaines, David Evans, Roxana Geambasu, Yangsibo
+  Huang, Matthew Jagielski, Peter Kairouz, Gautam Kamath, Sewoong Oh, Olga
+  Ohrimenko, Nicolas Papernot, Ryan Rogers, Milan Shen, Shuang Song, Weijie Su,
+  Andreas Terzis, Abhradeep Thakurta, Sergei Vassilvitskii, Yu-Xiang Wang, Li
+  Xiong, Sergey Yekhanin, Da Yu, Huanyu Zhang, and Wanrong Zhang. ''Advancing
+  Differential Privacy: Where We Are Now and Future Directions for Real-World
+  Deployment.'' Harvard Data Science Review, January 2024. [[link](https://hdsr.mitpress.mit.edu/pub/sl9we8gh/release/3)]
+
 * Matthew Jagielski, Stanley Wu, Alina Oprea, Jonathan Ullman, and Roxana
   Geambasu. ''How to combine membership-inference attacks on multiple updated
   models.'' In Proceedings of the Privacy-Enhancing Technologies Symposium
