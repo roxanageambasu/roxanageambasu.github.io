@@ -2,6 +2,11 @@
 layout: page
 title: Publications
 ---
+* Pierre Tholoniat, Kelly Kostopoulou, Mosharaf Chowdhury, Asaf Cidon, Roxana
+  Geambasu, Mathias Lécuyer, Junfeng Yang. ``Packing Privacy Budget
+  Efficiently.'' In Proceedings of the ACM European Conference on Computer
+  Systems (EuroSys), Rotterdam, Netherlands, March 2025. [[draft]](https://arxiv.org/abs/2212.13228)
+
 * Pierre Tholoniat, Kelly Kostopoulou, Peter McNeely, Prabhpreet Singh Sodhi,
   Anirudh Varanasi, Benjamin Case, Asaf Cidon, Roxana Geambasu, Mathias Lécuyer.
   ''Cookie Monster: Efficient On-device Budgeting for Differentially-Private
