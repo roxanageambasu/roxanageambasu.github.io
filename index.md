@@ -3,12 +3,10 @@ layout: default
 title: Overview
 ---
 
-I am an associate professor of Computer Science at Columbia University. My research spans broad areas of computer systems,
-including distributed systems, security and privacy, operating systems, databases, and applications of cryptography and machine
-learning to systems.
-Much of my current research aims to expose problems and invent solutions to threats to our data security and privacy in the context of new, emerging technologies, such as cloud computing, mobile devices, and big data.
-I design, build, and evaluate scalable distributed infrastructures that address these problems.
-Read about some of my research [here]({{ site.baseurl }}/01-research/).
+I am an associate professor of Computer Science at Columbia University, specializing in the development of privacy architectures for the web, mobile
+devices, and smart cities. My work focuses on creating comprehensive, practical solutions to enhance data privacy in these environments.
+My most recent papers indicate most closely the domain of my focus at any given
+time.
 
 ### Students
 
