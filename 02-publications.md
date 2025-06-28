@@ -2,6 +2,8 @@
 layout: page
 title: Publications
 ---
+* Pierre Tholoniat, Alison Caulfield, Giorgio Cavicchioli, Mark Chen, Nikos Goutzoulias, Benjamin Case, Asaf Cidon, Roxana Geambasu, Mathias Lécuyer, Martin Thomson. ``Big Bird: Privacy Budget Management for W3C's Privacy-Preserving Attribution API'' [arxiv](https://arxiv.org/abs/2506.05290)
+
 * Pierre Tholoniat, Kelly Kostopoulou, Mosharaf Chowdhury, Asaf Cidon, Roxana
   Geambasu, Mathias Lécuyer, Junfeng Yang. ``Packing Privacy Budget
   Efficiently.'' In Proceedings of the ACM European Conference on Computer
