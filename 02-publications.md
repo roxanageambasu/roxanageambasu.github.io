@@ -2,6 +2,14 @@
 layout: page
 title: Publications
 ---
+* Roxana Geambasu, Mariana Raykova, Pierre Tholoniat, Trishita Tiwari, Lillian
+  Tsai, Wen Zhang. ``Engineering Robustness into Personal Agents with the AI
+  Workflow Store.'' 2026. [arxiv](https://arxiv.org/abs/2605.10907)
+
+* Giorgio Cavicchioli, Mark Chen, Navid Salami Pargoo, Shuren Xia, Xiaotian
+  Zhou, Roxana Geambasu, Jason Nieh, Jorge Ortiz. ``CityOS: Privacy Architecture
+  for Urban Sensing.'' 2026. [arxiv](https://arxiv.org/abs/2605.02886)
+
 * Pierre Tholoniat, Alison Caulfield, Giorgio Cavicchioli, Mark Chen, Nikos
   Goutzoulias, Benjamin Case, Asaf Cidon, Roxana Geambasu, Mathias Lécuyer,
   Martin Thomson. ``Big Bird: Privacy Budget Management for W3C's
