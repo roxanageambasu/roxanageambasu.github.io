@@ -11,9 +11,12 @@ time.
 ### Students
 
 Current students:
-* [Pierre Tholoniat](https://tholoniat.me/), Ph.D. student
+* Giorgio Cavicchioli, Ph.D. student
+* Peihan Liu, Ph.D. student
 
 Graduated students for whom I was primary advisor:
+* [Pierre Tholoniat](https://tholoniat.me/), Ph.D. 2026, first employment:
+  Google
 * [Vaggelis Atlidakis](http://www.cs.columbia.edu/~vatlidak/), Ph.D. 2020, first
   employment: post-doc at Brown University
 * [Mathias Lecuyer](http://www.cs.columbia.edu/~mathias/), Ph.D. 2019, first employments:
