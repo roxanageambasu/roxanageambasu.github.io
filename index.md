@@ -11,7 +11,7 @@ time.
 ### Students
 
 Current students:
-* Giorgio Cavicchioli, Ph.D. student
+* [Giorgio Cavicchioli](https://www.linkedin.com/in/giorgio-cav), Ph.D. student
 * Peihan Liu, Ph.D. student
 
 Graduated students for whom I was primary advisor:
